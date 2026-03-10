@@ -1,5 +1,9 @@
 [![Aymane Bouljam banner][banner]][github]
 
+<p align="center">
+ <img src="https://media1.tenor.com/m/OjVjDqcWaIoAAAAd/stray-coding.gif" width="340" />
+</p>
+
 [![Typing intro][typing]][github]
 
 <p align="center" style="margin: 16px 0 18px; color: #22c55e; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
@@ -25,7 +29,7 @@
   <img src="https://cdn.simpleicons.org/shadcnui/22c55e" alt="shadcn/ui" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/pnpm/22c55e" alt="PHP" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/pnpm/22c55e" alt="Pnpm" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/nodedotjs/22c55e" alt="Node.js" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/livewire/22c55e" alt="Livewire" width="50" hspace="8"/>
 </p>
@@ -38,7 +42,11 @@
 </p>
 
 <p align="center">
-  <strong><tt>&lt;&nbsp;&nbsp;R E C E N T&nbsp;&nbsp;D R O P S&nbsp;&nbsp;&gt;</tt></strong>
+  <strong>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="" width="22" style="vertical-align: middle;" />
+    <span style="display: inline-block; margin: 0 10px; vertical-align: middle;"><tt>R E C E N T&nbsp;&nbsp;D R O P S</tt></span>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" alt="" width="22" style="vertical-align: middle;" />
+  </strong>
 </p>
 
 <p align="center">
@@ -104,6 +112,27 @@
 <p align="center">
   <a href="https://github.com/bulljam">
     <img src="https://ghchart.rshah.org/bulljam" alt="GitHub contribution graph" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/elon-fask/Elon-Fask/main/img/handshake.gif" width="80" alt="handshake gif" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1500&color=22C55E&center=true&vCenter=true&width=420&height=22&lines=If+you+need+your+next+app%2C+hit+me+up;Bring+the+idea+through%2C+we%27ll+level+it+up" alt="Let's cook something typing" />
+</p>
+
+
+<p align="center">
+  <a href="" title="Add your email link">
+    <img src="https://badgen.net/badge/Email/contact/0f172a" alt="Email" />
+  </a>
+  <a href="" title="Add your LinkedIn URL">
+    <img src="https://badgen.net/badge/LinkedIn/profile/0f172a" alt="LinkedIn" />
+  </a>
+  <a href="" title="Add your portfolio URL">
+    <img src="https://badgen.net/badge/Portfolio/live/0f172a" alt="Portfolio" />
   </a>
 </p>
 
