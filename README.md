@@ -113,19 +113,19 @@
   </a>
 </p>
 
-<table align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none; padding: 0 6px;">
       <a href="mailto:hello@example.com" title="Placeholder email link">
         <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding: 0 6px;">
       <a href="https://www.linkedin.com/in/placeholder" title="Placeholder LinkedIn link">
         <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding: 0 6px;">
       <a href="https://example.com" title="Placeholder portfolio link">
         <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" />
       </a>
