@@ -113,9 +113,25 @@
   </a>
 </p>
 
-[![Email](https://badgen.net/badge/Email/contact/22c55e)](mailto:hello@example.com)
-[![LinkedIn](https://badgen.net/badge/LinkedIn/profile/22c55e)](https://www.linkedin.com/in/placeholder)
-[![Portfolio](https://badgen.net/badge/Portfolio/live/22c55e)](https://example.com)
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="mailto:hello@example.com" title="Placeholder email link">
+        <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/placeholder" title="Placeholder LinkedIn link">
+        <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://example.com" title="Placeholder portfolio link">
+        <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&pause=1500&color=22C55E&center=true&vCenter=true&width=760&height=34&lines=If+you+need+your+next+app%2C+hit+me+up;Bring+the+idea+through%2C+we%27ll+level+it+up" alt="Let's cook something typing" />
