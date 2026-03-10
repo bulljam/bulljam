@@ -48,37 +48,37 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub><a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">01 // URBAN HAVEN</a></sub></p>
+      <p align="center"><sub>01 // URBAN HAVEN</sub></p>
       <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
-        <img src="./demo/urban-haven.gif" alt="Urban Haven demo" width="100%" />
+        <video src="./demo/urban-haven.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><sub><a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">02 // BRAVIO MEDIA</a></sub></p>
+      <p align="center"><sub>02 // BRAVIO MEDIA</sub></p>
       <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
-        <img src="./demo/bravio-media.gif" alt="Bravio Media demo" width="100%" />
+        <video src="./demo/bravio-media.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub><a href="https://github.com/bulljam/Maison-Ember" title="Open Maison Ember repository">03 // MAISON EMBER</a></sub></p>
+      <p align="center"><sub>03 // MAISON EMBER</sub></p>
       <a href="https://github.com/bulljam/Maison-Ember" title="Open Maison Ember repository">
-        <img src="./demo/maison-ember.gif" alt="Maison Ember demo" width="100%" />
+        <video src="./demo/maison-ember.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><sub><a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">04 // EMERALD LEAF</a></sub></p>
+      <p align="center"><sub>04 // EMERALD LEAF</sub></p>
       <a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">
-        <img src="./demo/emerald-leaf.gif" alt="Emerald Leaf demo" width="100%" />
+        <video src="./demo/emerald-leaf.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub><a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">05 // FILMORAX</a></sub></p>
+      <p align="center"><sub>05 // FILMORAX</sub></p>
       <a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">
-        <img src="./demo/filmoraX.gif" alt="FilmoraX demo" width="100%" />
+        <video src="./demo/filmoraX.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
       </a>
     </td>
     <td width="50%" valign="top"></td>
