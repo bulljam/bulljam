@@ -38,13 +38,11 @@
 </p>
 
 <p align="center">
-  <font color="#22c55e">────────────</font>
-  <strong><font color="#22c55e">RECENT DROPS</font></strong>
-  <font color="#22c55e">────────────</font>
+  <strong><tt>&lt;&nbsp;&nbsp;R E C E N T&nbsp;&nbsp;D R O P S&nbsp;&nbsp;&gt;</tt></strong>
 </p>
 
 <p align="center">
-  <sub><font color="#22c55e"><span style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; letter-spacing: 0.04em;">a taste of what I cook up</span></font></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1700&color=22C55E&center=true&vCenter=true&width=760&height=24&lines=just+a+taste+on+the+table%2C+this+ain%27t+the+full+jam;wanna+see+the+real+build%3F+hit+me+up+and+state+the+plan" alt="Recent drops typing" />
 </p>
 
 <table align="center">
