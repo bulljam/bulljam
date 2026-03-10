@@ -114,16 +114,14 @@
 </p>
 
 <p align="center">
-  <a href="mailto:hello@example.com" title="Placeholder email link" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" style="display: block;" />
+  <a href="mailto:hello@example.com" title="Placeholder email link">
+    <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" border="0" hspace="4" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/placeholder" title="Placeholder LinkedIn link" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" style="display: block;" />
+  <a href="https://www.linkedin.com/in/placeholder" title="Placeholder LinkedIn link">
+    <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" border="0" hspace="4" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://example.com" title="Placeholder portfolio link" style="text-decoration: none; display: inline-block; line-height: 0;">
-    <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" style="display: block;" />
+  <a href="https://example.com" title="Placeholder portfolio link">
+    <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" border="0" hspace="4" />
   </a>
 </p>
 
