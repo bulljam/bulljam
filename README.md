@@ -116,17 +116,17 @@
 <div align="center">
   <span style="display: inline-block; margin: 0 6px;">
     <a href="mailto:hello@example.com" title="Placeholder email link">
-      <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" />
+      <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" style="display: block; border-bottom: 2px solid #22c55e;" />
     </a>
   </span>
   <span style="display: inline-block; margin: 0 6px;">
     <a href="https://www.linkedin.com/in/placeholder" title="Placeholder LinkedIn link">
-      <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" />
+      <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" style="display: block; border-bottom: 2px solid #22c55e;" />
     </a>
   </span>
   <span style="display: inline-block; margin: 0 6px;">
     <a href="https://example.com" title="Placeholder portfolio link">
-      <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" />
+      <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" style="display: block; border-bottom: 2px solid #22c55e;" />
     </a>
   </span>
 </div>
