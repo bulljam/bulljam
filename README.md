@@ -37,26 +37,29 @@
   <img src="https://cdn.simpleicons.org/ubuntu/22c55e" alt="Ubuntu" width="50"/>
 </p>
 
-<p align="center" style="margin: 18px 0 16px; color: #22c55e; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
-  //
-</p>
-
-<p align="center">
-  <img src="./assets/demo-title.svg" alt="Recent Drops" width="520" />
-</p>
+<table align="center">
+  <tr>
+    <td><sub><span style="color: #22c55e;">────────────</span></sub></td>
+    <td align="center"><strong><span style="color: #22c55e;">RECENT DROPS</span></strong></td>
+    <td><sub><span style="color: #22c55e;">────────────</span></sub></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><sub><span style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; letter-spacing: 0.04em;">a taste of what I cook up</span></sub></td>
+  </tr>
+</table>
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
       <p align="center"><sub>01 // URBAN HAVEN</sub></p>
       <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
-        <video src="./demo/urban-haven.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
+        <img src="./demo/optimized/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
       <p align="center"><sub>02 // BRAVIO MEDIA</sub></p>
       <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
-        <video src="./demo/bravio-media.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
+        <img src="./demo/optimized/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -64,13 +67,13 @@
     <td width="50%" valign="top">
       <p align="center"><sub>03 // MAISON EMBER</sub></p>
       <a href="https://github.com/bulljam/Maison-Ember" title="Open Maison Ember repository">
-        <video src="./demo/maison-ember.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
+        <img src="./demo/optimized/maison-ember.gif" alt="Maison Ember demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
       <p align="center"><sub>04 // EMERALD LEAF</sub></p>
       <a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">
-        <video src="./demo/emerald-leaf.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
+        <img src="./demo/optimized/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -78,7 +81,7 @@
     <td width="50%" valign="top">
       <p align="center"><sub>05 // FILMORAX</sub></p>
       <a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">
-        <video src="./demo/filmoraX.mp4" autoplay loop muted playsinline preload="metadata" width="100%"></video>
+        <img src="./demo/optimized/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top"></td>
