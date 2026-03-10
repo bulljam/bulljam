@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=26&pause=1700&color=22C55E&center=true&vCenter=true&width=980&height=36&lines=just+a+taste+on+the+table%2C+this+ain%27t+the+full+jam;wanna+see+the+real+build%3F+hit+me+up+and+state+the+plan" alt="Recent drops typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=22&pause=1700&color=22C55E&center=true&vCenter=true&width=920&height=32&lines=just+a+taste+on+the+table%2C+this+ain%27t+the+full+jam;wanna+see+the+real+build%3F+hit+me+up+and+state+the+plan" alt="Recent drops typing" />
 </p>
 
 <table align="center">
@@ -130,7 +130,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=26&pause=1500&color=22C55E&center=true&vCenter=true&width=760&height=36&lines=If+you+need+your+next+app%2C+hit+me+up;Bring+the+idea+through%2C+we%27ll+level+it+up" alt="Let's cook something typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=22&pause=1500&color=22C55E&center=true&vCenter=true&width=700&height=32&lines=If+you+need+your+next+app%2C+hit+me+up;Bring+the+idea+through%2C+we%27ll+level+it+up" alt="Let's cook something typing" />
 </p>
 
 [![Aymane Bouljam footer][footer-banner]][github]
@@ -138,4 +138,4 @@
 [banner]: https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,45:111827,100:22c55e&animation=twinkling
 [footer-banner]: https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,45:111827,100:22c55e&animation=twinkling&reversal=true
 [github]: https://github.com/bulljam
-[typing]: https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=28&pause=1200&color=22C55E&center=true&vCenter=true&width=980&lines=From+idea+to+deploy%2C+I+build+it+clean+and+tough;Backend+stay+locked%2C+every+endpoint+sharp+enough;Frontend+too+smooth%2C+every+screen+dressed+up;Bring+the+vision+to+the+table%2C+let%27s+run+it+up
+[typing]: https://readme-typing-svg.demolab.com?font=VT323&weight=700&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=920&lines=From+idea+to+deploy%2C+I+build+it+clean+and+tough;Backend+stay+locked%2C+every+endpoint+sharp+enough;Frontend+too+smooth%2C+every+screen+dressed+up;Bring+the+vision+to+the+table%2C+let%27s+run+it+up
