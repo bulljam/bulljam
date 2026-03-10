@@ -114,10 +114,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&pause=1500&color=22C55E&center=true&vCenter=true&width=760&height=34&lines=If+you+need+your+next+app%2C+hit+me+up;Bring+the+idea+through%2C+we%27ll+level+it+up" alt="Let's cook something typing" />
-</p>
-
-<p align="center">
   <a href="" title="Add your email link">
     <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" />
   </a>
@@ -129,9 +125,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&pause=1500&color=22C55E&center=true&vCenter=true&width=760&height=34&lines=If+you+need+your+next+app%2C+hit+me+up;Bring+the+idea+through%2C+we%27ll+level+it+up" alt="Let's cook something typing" />
+</p>
+
 [![Aymane Bouljam footer][footer-banner]][github]
 
 [banner]: https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,45:111827,100:22c55e&animation=twinkling
-[footer-banner]: https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:166534,45:16a34a,100:22c55e&animation=twinkling&reversal=true
+[footer-banner]: https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,45:111827,100:22c55e&animation=twinkling&reversal=true
 [github]: https://github.com/bulljam
-[typing]: https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Yo%21+it%27s+your+boy+Aymane%2C+A.K.A.+Bulljam;Laravel+in+the+build%2C+PHP+ain%27t+dead%2C+still+feeding+the+fam;PostgreSQL+in+the+back%2C+every+query+hit+hard+like+a+slam;Next.js+on+the+polish%2C+clean+UI+so+smooth+it+don%27t+jam
+[typing]: https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=From+idea+to+deploy%2C+I+build+it+clean+and+tough;Backend+stay+locked%2C+every+endpoint+sharp+enough;Frontend+too+smooth%2C+every+screen+dressed+up;Bring+the+vision+to+the+table%2C+let%27s+run+it+up
