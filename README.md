@@ -42,6 +42,54 @@
 </p>
 
 <p align="center">
+  <img src="./assets/demo-title.svg" alt="Recent Drops" width="520" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><sub><a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">01 // URBAN HAVEN</a></sub></p>
+      <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
+        <img src="./demo/urban-haven.gif" alt="Urban Haven demo" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><sub><a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">02 // BRAVIO MEDIA</a></sub></p>
+      <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
+        <img src="./demo/bravio-media.gif" alt="Bravio Media demo" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><sub><a href="https://github.com/bulljam/Maison-Ember" title="Open Maison Ember repository">03 // MAISON EMBER</a></sub></p>
+      <a href="https://github.com/bulljam/Maison-Ember" title="Open Maison Ember repository">
+        <img src="./demo/maison-ember.gif" alt="Maison Ember demo" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><sub><a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">04 // EMERALD LEAF</a></sub></p>
+      <a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">
+        <img src="./demo/emerald-leaf.gif" alt="Emerald Leaf demo" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><sub><a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">05 // FILMORAX</a></sub></p>
+      <a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">
+        <img src="./demo/filmoraX.gif" alt="FilmoraX demo" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
+<p align="center" style="margin: 18px 0 16px; color: #22c55e; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+  //
+</p>
+
+<p align="center">
   <a href="https://github.com/bulljam">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=1f2937&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" alt="GitHub streak" width="100%" />
   </a>
@@ -57,4 +105,4 @@
 [banner]: https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,45:111827,100:22c55e&animation=twinkling
 [footer-banner]: https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,45:111827,100:22c55e&animation=twinkling&reversal=true
 [github]: https://github.com/bulljam
-[typing]: https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&pause=1200&color=22C55E&center=true&vCenter=true&width=980&lines=Yo%2C+it%27s+your+boy+Aymane%2C+backend+in+the+lane;Laravel+in+the+build%2C+PHP+ain%27t+dead%2C+it%27s+still+getting+paid;PostgreSQL+in+the+back%2C+keep+the+data+locked+in+place;Next.js+for+the+polish%2C+make+the+clean+UI+feel+great
+[typing]: https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&pause=1200&color=22C55E&center=true&vCenter=true&width=980&lines=Yo%21+it%27s+your+boy+Aymane%2C+A.K.A.+Bulljam;Laravel+in+the+build%2C+PHP+ain%27t+dead%2C+still+feeding+the+fam;PostgreSQL+in+the+back%2C+every+query+hit+hard+like+a+slam;Next.js+on+the+polish%2C+clean+UI+so+smooth+it+don%27t+jam
