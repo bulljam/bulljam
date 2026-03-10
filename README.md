@@ -113,25 +113,23 @@
   </a>
 </p>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
-  <tr>
-    <td align="center" style="border: none; padding: 0 6px;">
-      <a href="mailto:hello@example.com" title="Placeholder email link">
-        <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" />
-      </a>
-    </td>
-    <td align="center" style="border: none; padding: 0 6px;">
-      <a href="https://www.linkedin.com/in/placeholder" title="Placeholder LinkedIn link">
-        <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" style="border: none; padding: 0 6px;">
-      <a href="https://example.com" title="Placeholder portfolio link">
-        <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <span style="display: inline-block; margin: 0 6px;">
+    <a href="mailto:hello@example.com" title="Placeholder email link">
+      <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" />
+    </a>
+  </span>
+  <span style="display: inline-block; margin: 0 6px;">
+    <a href="https://www.linkedin.com/in/placeholder" title="Placeholder LinkedIn link">
+      <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" />
+    </a>
+  </span>
+  <span style="display: inline-block; margin: 0 6px;">
+    <a href="https://example.com" title="Placeholder portfolio link">
+      <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" />
+    </a>
+  </span>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&pause=1500&color=22C55E&center=true&vCenter=true&width=760&height=34&lines=If+you+need+your+next+app%2C+hit+me+up;Bring+the+idea+through%2C+we%27ll+level+it+up" alt="Let's cook something typing" />
