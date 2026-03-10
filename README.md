@@ -114,14 +114,14 @@
 </p>
 
 <p align="center">
-  <a href="" title="Add your email link">
-    <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" />
+  <a href="" title="Add your email link" style="text-decoration: none;">
+    <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" style="vertical-align: middle;" />
   </a>
-  <a href="" title="Add your LinkedIn URL">
-    <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" />
+  <a href="" title="Add your LinkedIn URL" style="text-decoration: none;">
+    <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" style="vertical-align: middle;" />
   </a>
-  <a href="" title="Add your portfolio URL">
-    <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" />
+  <a href="" title="Add your portfolio URL" style="text-decoration: none;">
+    <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" style="vertical-align: middle;" />
   </a>
 </p>
 
