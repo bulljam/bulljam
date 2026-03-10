@@ -7,11 +7,21 @@
 [![Typing intro][typing]][github]
 
 <p align="center">
-  <strong>Laravel • Next.js • React • TypeScript • PostgreSQL • MongoDB • Docker • Redis</strong>
+  <img
+    src="https://skillicons.dev/icons?i=laravel,nextjs,react,ts,postgres,mongodb,docker,redis&perline=8"
+    alt="Laravel, Next.js, React, TypeScript, PostgreSQL, MongoDB, Docker, Redis"
+  />
 </p>
 
 <p align="center">
-  <sub>NestJS • Tailwind CSS • Livewire • Node.js • Python • Ubuntu • shadcn/ui • pnpm</sub>
+  <img
+    src="https://skillicons.dev/icons?i=nestjs,tailwind,nodejs,python,ubuntu&perline=5"
+    alt="NestJS, Tailwind CSS, Node.js, Python, Ubuntu"
+  />
+</p>
+
+<p align="center">
+  <sub>Livewire • shadcn/ui • pnpm</sub>
 </p>
 
 <h2 align="center">Recent Drops</h2>
