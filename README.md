@@ -130,7 +130,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=22&pause=1500&color=22C55E&center=true&vCenter=true&width=700&height=32&lines=If+you+need+your+next+app%2C+hit+me+up;Bring+the+idea+through%2C+we%27ll+level+it+up" alt="Let's cook something typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=600&size=22&pause=1500&color=22C55E&center=true&vCenter=true&width=760&height=32&lines=If+you+need+your+next+app%2C+bring+the+vision+through;From+first+spark+to+launch%2C+I%27ll+build+it+clean+for+you" alt="Let's cook something typing" />
 </p>
 
 [![Aymane Bouljam footer][footer-banner]][github]
