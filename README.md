@@ -6,46 +6,15 @@
 
 [![Typing intro][typing]][github]
 
-<p align="center" style="margin: 16px 0 18px; color: #22c55e; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
-  //
-</p>
-
-<p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/nextdotjs/22c55e" alt="Next.js" width="50"/>
-</p>
-<p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/laravel/22c55e" alt="Laravel" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/postgresql/22c55e" alt="PostgreSQL" width="50" hspace="8"/>
-</p>
-<p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/nestjs/22c55e" alt="NestJS" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/mongodb/22c55e" alt="MongoDB" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/22c55e" alt="Tailwind CSS" width="50" hspace="8"/>
-</p>
-<p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/react/22c55e" alt="React" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/typescript/22c55e" alt="TypeScript" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/docker/22c55e" alt="Docker" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/shadcnui/22c55e" alt="shadcn/ui" width="50" hspace="8"/>
-</p>
-<p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/pnpm/22c55e" alt="Pnpm" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/nodedotjs/22c55e" alt="Node.js" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/livewire/22c55e" alt="Livewire" width="50" hspace="8"/>
-</p>
-<p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/python/22c55e" alt="Python" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/redis/22c55e" alt="Redis" width="50" hspace="8"/>
-</p>
-<p align="center" style="margin: 10px 0 18px;">
-  <img src="https://cdn.simpleicons.org/ubuntu/22c55e" alt="Ubuntu" width="50"/>
+<p align="center">
+  <strong>Laravel • Next.js • React • TypeScript • PostgreSQL • MongoDB • Docker • Redis</strong>
 </p>
 
 <p align="center">
-  <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>R E C E N T&nbsp;&nbsp;D R O P S</tt></span>
-  </strong>
+  <sub>NestJS • Tailwind CSS • Livewire • Node.js • Python • Ubuntu • shadcn/ui • pnpm</sub>
 </p>
+
+<h2 align="center">Recent Drops</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=24&pause=1700&color=22C55E&center=true&vCenter=true&width=980&height=34&lines=just+a+taste+on+the+table%2C+this+ain%27t+the+full+jam;wanna+see+the+real+build%3F+hit+me+up+and+state+the+plan" alt="Recent drops typing" />
@@ -91,19 +60,25 @@
   </tr>
 </table>
 
-<p align="center" style="margin: 18px 0 16px; color: #22c55e; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
-  //
-</p>
+<h3 align="center">Activity</h3>
 
 <p align="center">
   <a href="https://github.com/bulljam">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=1f2937&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" alt="GitHub streak" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=1f2937&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=cbd5e1&ring=16a34a&fire=16a34a&currStreakLabel=166534&sideNums=0f172a&currStreakNum=0f172a&dates=475569&sideLabels=334155&card_width=980" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=cbd5e1&ring=16a34a&fire=16a34a&currStreakLabel=166534&sideNums=0f172a&currStreakNum=0f172a&dates=475569&sideLabels=334155&card_width=980" alt="GitHub streak" width="100%" />
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/bulljam">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=bulljam&bg_color=00000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bulljam&bg_color=00000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bulljam&bg_color=ffffff00&color=166534&line=16a34a&point=0f172a&area=true&hide_border=true" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=bulljam&bg_color=ffffff00&color=166534&line=16a34a&point=0f172a&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+    </picture>
   </a>
 </p>
 
@@ -113,23 +88,13 @@
   </a>
 </p>
 
-<div align="center">
-  <span style="display: inline-block; margin: 0 6px;">
-    <a href="mailto:hello@example.com" title="Placeholder email link">
-      <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" style="display: block; border-bottom: 2px solid #22c55e;" />
-    </a>
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <a href="https://www.linkedin.com/in/placeholder" title="Placeholder LinkedIn link">
-      <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" style="display: block; border-bottom: 2px solid #22c55e;" />
-    </a>
-  </span>
-  <span style="display: inline-block; margin: 0 6px;">
-    <a href="https://example.com" title="Placeholder portfolio link">
-      <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" style="display: block; border-bottom: 2px solid #22c55e;" />
-    </a>
-  </span>
-</div>
+<p align="center">
+  <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" />
+  &nbsp;&nbsp;
+  <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&pause=1500&color=22C55E&center=true&vCenter=true&width=760&height=34&lines=If+you+need+your+next+app%2C+hit+me+up;Bring+the+idea+through%2C+we%27ll+level+it+up" alt="Let's cook something typing" />
