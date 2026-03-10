@@ -114,11 +114,17 @@
 </p>
 
 <p align="center">
-  <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" style="vertical-align: middle;" />
+  <a href="mailto:hello@example.com" title="Placeholder email link" style="text-decoration: none;">
+    <img src="https://badgen.net/badge/Email/contact/22c55e" alt="Email" style="vertical-align: middle;" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" style="vertical-align: middle;" />
+  <a href="https://www.linkedin.com/in/placeholder" title="Placeholder LinkedIn link" style="text-decoration: none;">
+    <img src="https://badgen.net/badge/LinkedIn/profile/22c55e" alt="LinkedIn" style="vertical-align: middle;" />
+  </a>
   &nbsp;&nbsp;
-  <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" style="vertical-align: middle;" />
+  <a href="https://example.com" title="Placeholder portfolio link" style="text-decoration: none;">
+    <img src="https://badgen.net/badge/Portfolio/live/22c55e" alt="Portfolio" style="vertical-align: middle;" />
+  </a>
 </p>
 
 <p align="center">
