@@ -18,7 +18,7 @@
   <img src="https://cdn.simpleicons.org/react" alt="React" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/shadcnui" alt="shadcn/ui" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/shadcnui/white" alt="shadcn/ui" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
   <img src="https://cdn.simpleicons.org/pnpm" alt="PHP" width="50" hspace="8"/>
@@ -30,7 +30,7 @@
   <img src="https://cdn.simpleicons.org/redis" alt="Redis" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0 18px;">
-  <img src="https://cdn.simpleicons.org/ubuntu/white" alt="Vercel" width="50"/>
+  <img src="https://cdn.simpleicons.org/ubuntu/white" alt="Ubuntu" width="50"/>
 </p>
 
 <p align="center">
