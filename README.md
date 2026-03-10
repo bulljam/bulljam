@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-  <sub><span style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; letter-spacing: 0.04em;">a taste of what I cook up</span></sub>
+  <sub><font color="#22c55e"><span style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; letter-spacing: 0.04em;">a taste of what I cook up</span></font></sub>
 </p>
 
 <table align="center">
