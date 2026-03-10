@@ -42,10 +42,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFvdnhmdTRpbXAzdnk4dmM5MXZqdG55bG9ya2RvcXpzOHk5Mnd3ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/bulljam">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=1f2937&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" alt="GitHub streak" width="100%" />
   </a>
@@ -61,4 +57,4 @@
 [banner]: https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,45:111827,100:22c55e&animation=twinkling
 [footer-banner]: https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,45:111827,100:22c55e&animation=twinkling&reversal=true
 [github]: https://github.com/bulljam
-[typing]: https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=980&lines=Yo%2C+it%27s+your+boy+Aymane%2C+backend+in+the+lane;Laravel+in+the+build%2C+PHP+ain%27t+dead%2C+it%27s+still+getting+paid;PostgreSQL+in+the+back%2C+keep+the+data+locked+in+place;Next.js+for+the+polish%2C+make+the+clean+UI+feel+great
+[typing]: https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=30&pause=1200&color=22C55E&center=true&vCenter=true&width=980&lines=Yo%2C+it%27s+your+boy+Aymane%2C+backend+in+the+lane;Laravel+in+the+build%2C+PHP+ain%27t+dead%2C+it%27s+still+getting+paid;PostgreSQL+in+the+back%2C+keep+the+data+locked+in+place;Next.js+for+the+polish%2C+make+the+clean+UI+feel+great
