@@ -61,4 +61,4 @@
 [banner]: https://capsule-render.vercel.app/api?type=waving&height=160&color=0:0f172a,45:111827,100:22c55e&animation=twinkling
 [footer-banner]: https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0f172a,45:111827,100:22c55e&animation=twinkling&reversal=true
 [github]: https://github.com/bulljam
-[typing]: https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=980&lines=Yo%2C+it%27s+your+boy+Aymane%2C+backend+in+the+lane;Laravel+in+the+engine+room%2C+PostgreSQL+bring+the+flame;Next.js+for+the+finish%2C+clean+UI+in+the+game;If+the+bug+starts+talking%2C+I+just+push+it+off+the+stage
+[typing]: https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=980&lines=Yo%2C+it%27s+your+boy+Aymane%2C+backend+in+the+lane;Laravel+in+the+build%2C+PHP+ain%27t+dead%2C+it%27s+still+getting+paid;PostgreSQL+in+the+back%2C+keep+the+data+locked+in+place;Next.js+for+the+polish%2C+make+the+clean+UI+feel+great
