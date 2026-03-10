@@ -94,9 +94,16 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=1f2937&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" alt="GitHub streak" width="100%" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/bulljam">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=bulljam&bg_color=00000000&color=22c55e&line=22c55e&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bulljam">
+    <img src="https://ghchart.rshah.org/bulljam" alt="GitHub contribution graph" />
   </a>
 </p>
 
