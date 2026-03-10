@@ -37,16 +37,15 @@
   <img src="https://cdn.simpleicons.org/ubuntu/22c55e" alt="Ubuntu" width="50"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td><sub><span style="color: #22c55e;">────────────</span></sub></td>
-    <td align="center"><strong><span style="color: #22c55e;">RECENT DROPS</span></strong></td>
-    <td><sub><span style="color: #22c55e;">────────────</span></sub></td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center"><sub><span style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; letter-spacing: 0.04em;">a taste of what I cook up</span></sub></td>
-  </tr>
-</table>
+<p align="center">
+  <font color="#22c55e">────────────</font>
+  <strong><font color="#22c55e">RECENT DROPS</font></strong>
+  <font color="#22c55e">────────────</font>
+</p>
+
+<p align="center">
+  <sub><span style="font-family: Georgia, 'Times New Roman', serif; font-style: italic; letter-spacing: 0.04em;">a taste of what I cook up</span></sub>
+</p>
 
 <table align="center">
   <tr>
