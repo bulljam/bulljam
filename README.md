@@ -84,7 +84,7 @@
     <td width="50%" valign="top">
       <p align="center"><sub>05 // FILMORAX</sub></p>
       <a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">
-        <img src="https://raw.githubusercontent.com/bulljam/bulljam/main/demo/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
+        <img src="https://raw.githubusercontent.com/bulljam/bulljam/90f2075/demo/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top"></td>
