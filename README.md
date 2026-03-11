@@ -56,13 +56,13 @@
     <td width="50%" valign="top">
       <p align="center"><sub>01 // URBAN HAVEN</sub></p>
       <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
-        <img src="https://raw.githubusercontent.com/bulljam/bulljam/main/demo/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
+        <img src="demo/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><sub>02 // BRAVIO MEDIA</sub></p>
-      <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
-        <img src="https://raw.githubusercontent.com/bulljam/bulljam/main/demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
+      <p align="center"><sub>02 // FILMORAX</sub></p>
+      <a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">
+        <img src="demo/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -70,24 +70,29 @@
     <td width="50%" valign="top">
       <p align="center"><sub>03 // MAISON EMBER</sub></p>
       <a href="https://github.com/bulljam/Maison-Ember" title="Open Maison Ember repository">
-        <img src="https://raw.githubusercontent.com/bulljam/bulljam/main/demo/maison-ember.gif" alt="Maison Ember demo preview" width="100%" />
+        <img src="demo/maison-ember.gif" alt="Maison Ember demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
       <p align="center"><sub>04 // EMERALD LEAF</sub></p>
       <a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">
-        <img src="https://raw.githubusercontent.com/bulljam/bulljam/main/demo/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
+        <img src="demo/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub>05 // FILMORAX</sub></p>
-      <a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">
-        <img src="https://raw.githubusercontent.com/bulljam/bulljam/90f2075/demo/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
+      <p align="center"><sub>05 // BRAVIO MEDIA</sub></p>
+      <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
+        <img src="demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <p align="center"><sub>06 // LE PETIT OVEN</sub></p>
+      <a href="https://github.com/bulljam/Le-Petit-Oven" title="Open Le Petit Oven repository">
+        <img src="demo/le-petit-oven.gif" alt="Le Petit Oven demo preview" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
