@@ -82,9 +82,9 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub>05 // BRAVIO MEDIA</sub></p>
-      <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
-        <img src="demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
+      <p align="center"><sub>05 // PET PANTRY</sub></p>
+      <a href="https://github.com/bulljam/Pet-Pantry" title="Open Pet Pantry repository">
+        <img src="./demo/pet-pantry.gif" alt="Pet Pantry demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -95,6 +95,13 @@
     </td>
   </tr>
 </table>
+
+<p align="center"><sub>07 // BRAVIO MEDIA</sub></p>
+<p align="center">
+  <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
+    <img src="demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
+  </a>
+</p>
 
 <p align="center" style="margin: 18px 0 16px; color: #22c55e; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
   //
