@@ -96,12 +96,22 @@
   </tr>
 </table>
 
-<p align="center"><sub>07 // BRAVIO MEDIA</sub></p>
-<p align="center">
-  <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
-    <img src="demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center"><sub>07 // FLEX ZONE</sub></p>
+      <a href="https://github.com/bulljam/Flex-zone" title="Open Flex Zone repository">
+        <img src="demo/flex-zone.gif" alt="Flex Zone demo preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <p align="center"><sub>08 // BRAVIO MEDIA</sub></p>
+      <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
+        <img src="demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center" style="margin: 18px 0 16px; color: #22c55e; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
   //
