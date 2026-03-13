@@ -100,7 +100,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub>01 // PET PANTRY</sub></p>
+      <p align="center"><strong><span style="font-size: 16px;">01 // PET PANTRY</span></strong></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
         <img src="demo/descriptions/pet-pantry.svg" alt="Playful storefront for dog food and accessories" />
@@ -117,7 +117,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><sub>02 // FILMORAX</sub></p>
+      <p align="center"><strong><span style="font-size: 16px;">02 // FILMORAX</span></strong></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
         <img src="demo/descriptions/filmorax.svg" alt="Movie streaming app with a polished browsing flow" />
@@ -136,7 +136,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub>03 // MAISON EMBER</sub></p>
+      <p align="center"><strong><span style="font-size: 16px;">03 // MAISON EMBER</span></strong></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
         <img src="demo/descriptions/maison-ember.svg" alt="Multi-page restaurant showcase with a refined brand feel" />
@@ -152,7 +152,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><sub>04 // NOMADIAN</sub></p>
+      <p align="center"><strong><span style="font-size: 16px;">04 // NOMADIAN</span></strong></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
         <img src="demo/descriptions/nomadian.svg" alt="Cinematic one-page luxury travel experience" />
@@ -171,7 +171,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub>05 // EMERALD LEAF</sub></p>
+      <p align="center"><strong><span style="font-size: 16px;">05 // EMERALD LEAF</span></strong></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
         <img src="demo/descriptions/emerald-leaf.svg" alt="Premium indoor-plant showcase with care-rich discovery" />
@@ -188,7 +188,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><sub>06 // URBAN HAVEN</sub></p>
+      <p align="center"><strong><span style="font-size: 16px;">06 // URBAN HAVEN</span></strong></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
         <img src="demo/descriptions/urban-haven.svg" alt="Premium real-estate showcase with polished inquiry flow" />
@@ -210,7 +210,7 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub>07 // FLEX ZONE</sub></p>
+      <p align="center"><strong><span style="font-size: 16px;">07 // FLEX ZONE</span></strong></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
         <img src="demo/descriptions/flex-zone.svg" alt="Modern gym showcase with bold, motion-led presentation" />
@@ -227,7 +227,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><sub>08 // LE PETIT OVEN</sub></p>
+      <p align="center"><strong><span style="font-size: 16px;">08 // LE PETIT OVEN</span></strong></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
         <img src="demo/descriptions/le-petit-oven.svg" alt="Polished bakery showcase with a warm editorial feel" />
@@ -245,7 +245,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><sub>09 // BRAVIO MEDIA</sub></p>
+      <p align="center"><strong><span style="font-size: 16px;">09 // BRAVIO MEDIA</span></strong></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
         <img src="demo/descriptions/bravio-media.svg" alt="Modern single-page agency showcase" />
