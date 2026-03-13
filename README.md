@@ -109,10 +109,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <img src="https://cdn.simpleicons.org/reactrouter/ffffff" alt="React Router" title="React Router" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/bun/ffffff" alt="Bun" title="Bun" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/reactrouter/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/reactrouter/6d28d9" /><img src="https://cdn.simpleicons.org/reactrouter/6d28d9" alt="React Router" title="React Router" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/6d28d9" /><img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Pet-Pantry" title="Open Pet Pantry repository">
         <img src="./demo/pet-pantry.gif" alt="Pet Pantry demo preview" width="100%" />
@@ -128,10 +128,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/supabase/ffffff" alt="Supabase" title="Supabase" width="16" hspace="4" />
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/supabase/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/supabase/6d28d9" /><img src="https://cdn.simpleicons.org/supabase/6d28d9" alt="Supabase" title="Supabase" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">
         <img src="demo/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
@@ -149,9 +149,9 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <img src="https://cdn.simpleicons.org/astro/ffffff" alt="Astro" title="Astro" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/mailtrap/ffffff" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" />
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/astro/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/astro/6d28d9" /><img src="https://cdn.simpleicons.org/astro/6d28d9" alt="Astro" title="Astro" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Maison-Ember" title="Open Maison Ember repository">
         <img src="demo/maison-ember.gif" alt="Maison Ember demo preview" width="100%" />
@@ -167,10 +167,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <img src="https://cdn.simpleicons.org/svelte/ffffff" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/lucide/ffffff" alt="Lucide Svelte" title="Lucide Svelte" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/greensock/ffffff" alt="GSAP" title="GSAP" width="16" hspace="4" />
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/svelte/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/svelte/6d28d9" /><img src="https://cdn.simpleicons.org/svelte/6d28d9" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lucide/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lucide/6d28d9" /><img src="https://cdn.simpleicons.org/lucide/6d28d9" alt="Lucide Svelte" title="Lucide Svelte" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/6d28d9" /><img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Nomadian" title="Open Nomadian repository">
         <img src="demo/nomadian.gif" alt="Nomadian demo preview" width="100%" />
@@ -188,10 +188,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/framer/ffffff" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" />
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">
         <img src="demo/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
@@ -207,10 +207,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <img src="https://cdn.simpleicons.org/nuxt/ffffff" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/daisyui/ffffff" alt="daisyUI" title="daisyUI" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/greensock/ffffff" alt="GSAP" title="GSAP" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/mailtrap/ffffff" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" />
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nuxt/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nuxt/6d28d9" /><img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/daisyui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/daisyui/6d28d9" /><img src="https://cdn.simpleicons.org/daisyui/6d28d9" alt="daisyUI" title="daisyUI" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/6d28d9" /><img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
         <img src="demo/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
@@ -231,10 +231,10 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/framer/ffffff" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" />
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Flex-zone" title="Open Flex Zone repository">
         <img src="demo/flex-zone.gif" alt="Flex Zone demo preview" width="100%" />
@@ -250,9 +250,9 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <img src="https://cdn.simpleicons.org/solid/ffffff" alt="SolidStart" title="SolidStart" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/bun/ffffff" alt="Bun" title="Bun" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/solid/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/solid/6d28d9" /><img src="https://cdn.simpleicons.org/solid/6d28d9" alt="SolidStart" title="SolidStart" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/6d28d9" /><img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Le-Petit-Oven" title="Open Le Petit Oven repository">
         <img src="demo/le-petit-oven.gif" alt="Le Petit Oven demo preview" width="100%" />
@@ -270,9 +270,9 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" title="React" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/typescript/ffffff" alt="TypeScript" title="TypeScript" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/css/ffffff" alt="CSS" title="CSS" width="16" hspace="4" />
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/6d28d9" /><img src="https://cdn.simpleicons.org/typescript/6d28d9" alt="TypeScript" title="TypeScript" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css/6d28d9" /><img src="https://cdn.simpleicons.org/css/6d28d9" alt="CSS" title="CSS" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
         <img src="demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
@@ -324,7 +324,7 @@
 
 <div align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>C O N T A C T</tt></span>
+    <span style="display: inline-block; font-size: 15px;"><tt>F I N D&nbsp;&nbsp;M E</tt></span>
   </strong>
 </div>
 
