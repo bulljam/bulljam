@@ -14,7 +14,9 @@
     <span style="display: inline-block; font-size: 15px;"><tt>W H O&nbsp;&nbsp;A M&nbsp;&nbsp;I</tt></span>
   </strong>
 </p>
-<p align="center" style="color: #8B5CF6;">I'm Aymane Bouljam.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=320&height=24&lines=I%27m+Aymane+Bouljam." alt="I'm Aymane Bouljam." />
+</p>
 
 <p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
   //
@@ -24,7 +26,9 @@
     <span style="display: inline-block; font-size: 15px;"><tt>W H A T&nbsp;&nbsp;I&nbsp;&nbsp;D O</tt></span>
   </strong>
 </p>
-<p align="center" style="color: #8B5CF6;">I work as a fullstack developer with specialization in backend development.</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=900&height=24&lines=I+work+as+a+fullstack+developer+with+specialization+in+backend+development." alt="I work as a fullstack developer with specialization in backend development." />
+</p>
 
 <p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
   //
@@ -34,7 +38,9 @@
     <span style="display: inline-block; font-size: 15px;"><tt>M O T T O</tt></span>
   </strong>
 </p>
-<p align="center" style="color: #8B5CF6;">"Clarity First. Speed Always."</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=360&height=24&lines=%22Clarity+First.+Speed+Always.%22" alt="Clarity First. Speed Always." />
+</p>
 
 <p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
   //
