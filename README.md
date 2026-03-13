@@ -102,7 +102,11 @@
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // PET PANTRY</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
-        <img src="demo/descriptions/pet-pantry.svg" alt="Playful storefront for dog food and accessories" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/pet-pantry.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/pet-pantry-light.svg" />
+          <img src="demo/descriptions/pet-pantry-light.svg" alt="Playful storefront for dog food and accessories" />
+        </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/reactrouter/ffffff" alt="React Router" title="React Router" width="16" hspace="4" />
@@ -117,7 +121,11 @@
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">02 // FILMORAX</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
-        <img src="demo/descriptions/filmorax.svg" alt="Movie streaming app with a polished browsing flow" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/filmorax.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/filmorax-light.svg" />
+          <img src="demo/descriptions/filmorax-light.svg" alt="Movie streaming app with a polished browsing flow" />
+        </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="16" hspace="4" />
@@ -134,7 +142,11 @@
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">03 // MAISON EMBER</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
-        <img src="demo/descriptions/maison-ember.svg" alt="Multi-page restaurant showcase with a refined brand feel" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/maison-ember.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/maison-ember-light.svg" />
+          <img src="demo/descriptions/maison-ember-light.svg" alt="Multi-page restaurant showcase with a refined brand feel" />
+        </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/astro/ffffff" alt="Astro" title="Astro" width="16" hspace="4" />
@@ -148,7 +160,11 @@
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">04 // NOMADIAN</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
-        <img src="demo/descriptions/nomadian.svg" alt="Cinematic one-page luxury travel experience" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/nomadian.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/nomadian-light.svg" />
+          <img src="demo/descriptions/nomadian-light.svg" alt="Cinematic one-page luxury travel experience" />
+        </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/svelte/ffffff" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" />
@@ -165,7 +181,11 @@
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">05 // EMERALD LEAF</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
-        <img src="demo/descriptions/emerald-leaf.svg" alt="Premium indoor-plant showcase with care-rich discovery" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/emerald-leaf.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/emerald-leaf-light.svg" />
+          <img src="demo/descriptions/emerald-leaf-light.svg" alt="Premium indoor-plant showcase with care-rich discovery" />
+        </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="16" hspace="4" />
@@ -180,7 +200,11 @@
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">06 // URBAN HAVEN</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
-        <img src="demo/descriptions/urban-haven.svg" alt="Premium real-estate showcase with polished inquiry flow" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/urban-haven.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/urban-haven-light.svg" />
+          <img src="demo/descriptions/urban-haven-light.svg" alt="Premium real-estate showcase with polished inquiry flow" />
+        </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/nuxt/ffffff" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" />
@@ -200,7 +224,11 @@
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">07 // FLEX ZONE</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
-        <img src="demo/descriptions/flex-zone.svg" alt="Modern gym showcase with bold, motion-led presentation" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/flex-zone.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/flex-zone-light.svg" />
+          <img src="demo/descriptions/flex-zone-light.svg" alt="Modern gym showcase with bold, motion-led presentation" />
+        </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="16" hspace="4" />
@@ -215,7 +243,11 @@
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">08 // LE PETIT OVEN</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
-        <img src="demo/descriptions/le-petit-oven.svg" alt="Polished bakery showcase with a warm editorial feel" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/le-petit-oven.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/le-petit-oven-light.svg" />
+          <img src="demo/descriptions/le-petit-oven-light.svg" alt="Polished bakery showcase with a warm editorial feel" />
+        </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/solid/ffffff" alt="SolidStart" title="SolidStart" width="16" hspace="4" />
@@ -231,7 +263,11 @@
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">09 // BRAVIO MEDIA</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
-        <img src="demo/descriptions/bravio-media.svg" alt="Modern single-page agency showcase" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/bravio-media.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/bravio-media-light.svg" />
+          <img src="demo/descriptions/bravio-media-light.svg" alt="Modern single-page agency showcase" />
+        </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" title="React" width="16" hspace="4" />
