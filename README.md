@@ -67,10 +67,10 @@
       <p align="center"><sub>01 // PET PANTRY</sub></p>
       <div align="center"><sub>----------------------------------------<br />Playful storefront for dog food and accessories<br />----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
-        <img src="https://cdn.simpleicons.org/reactrouter/6d28d9" alt="React Router" title="React Router" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/reactrouter/8b5cf6" alt="React Router" title="React Router" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/bun/8b5cf6" alt="Bun" title="Bun" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/8b5cf6" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/shadcnui/8b5cf6" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
       </p>
       <a href="https://github.com/bulljam/Pet-Pantry" title="Open Pet Pantry repository">
         <img src="./demo/pet-pantry.gif" alt="Pet Pantry demo preview" width="100%" />
@@ -80,10 +80,10 @@
       <p align="center"><sub>02 // FILMORAX</sub></p>
       <div align="center"><sub>----------------------------------------<br />Movie streaming app with a polished browsing flow<br />----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
-        <img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/supabase/6d28d9" alt="Supabase" title="Supabase" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/8b5cf6" alt="Next.js" title="Next.js" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/8b5cf6" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/shadcnui/8b5cf6" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/supabase/8b5cf6" alt="Supabase" title="Supabase" width="16" hspace="4" />
       </p>
       <a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">
         <img src="demo/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
@@ -95,9 +95,9 @@
       <p align="center"><sub>03 // MAISON EMBER</sub></p>
       <div align="center"><sub>----------------------------------------<br />Multi-page restaurant showcase with a refined brand feel<br />----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
-        <img src="https://cdn.simpleicons.org/astro/6d28d9" alt="Astro" title="Astro" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/astro/8b5cf6" alt="Astro" title="Astro" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/8b5cf6" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/mailtrap/8b5cf6" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" />
       </p>
       <a href="https://github.com/bulljam/Maison-Ember" title="Open Maison Ember repository">
         <img src="demo/maison-ember.gif" alt="Maison Ember demo preview" width="100%" />
@@ -107,10 +107,10 @@
       <p align="center"><sub>04 // NOMADIAN</sub></p>
       <div align="center"><sub>----------------------------------------<br />Cinematic one-page luxury travel experience<br />----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
-        <img src="https://cdn.simpleicons.org/svelte/6d28d9" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/lucide/6d28d9" alt="Lucide Svelte" title="Lucide Svelte" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/svelte/8b5cf6" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/lucide/8b5cf6" alt="Lucide Svelte" title="Lucide Svelte" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/8b5cf6" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/greensock/8b5cf6" alt="GSAP" title="GSAP" width="16" hspace="4" />
       </p>
       <a href="https://github.com/bulljam/Nomadian" title="Open Nomadian repository">
         <img src="demo/nomadian.gif" alt="Nomadian demo preview" width="100%" />
@@ -122,10 +122,10 @@
       <p align="center"><sub>05 // EMERALD LEAF</sub></p>
       <div align="center"><sub>----------------------------------------<br />Premium indoor-plant showcase with care-rich discovery<br />----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
-        <img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/8b5cf6" alt="Next.js" title="Next.js" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/8b5cf6" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/shadcnui/8b5cf6" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/framer/8b5cf6" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" />
       </p>
       <a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">
         <img src="demo/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
@@ -135,10 +135,10 @@
       <p align="center"><sub>06 // URBAN HAVEN</sub></p>
       <div align="center"><sub>----------------------------------------<br />Premium real-estate showcase with polished inquiry flow<br />----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
-        <img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/daisyui/6d28d9" alt="daisyUI" title="daisyUI" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/nuxt/8b5cf6" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/daisyui/8b5cf6" alt="daisyUI" title="daisyUI" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/greensock/8b5cf6" alt="GSAP" title="GSAP" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/mailtrap/8b5cf6" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" />
       </p>
       <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
         <img src="demo/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
@@ -153,10 +153,10 @@
       <p align="center"><sub>07 // FLEX ZONE</sub></p>
       <div align="center"><sub>----------------------------------------<br />Modern gym showcase with bold, motion-led presentation<br />----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
-        <img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/8b5cf6" alt="Next.js" title="Next.js" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/8b5cf6" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/shadcnui/8b5cf6" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/framer/8b5cf6" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" />
       </p>
       <a href="https://github.com/bulljam/Flex-zone" title="Open Flex Zone repository">
         <img src="demo/flex-zone.gif" alt="Flex Zone demo preview" width="100%" />
@@ -166,9 +166,9 @@
       <p align="center"><sub>08 // LE PETIT OVEN</sub></p>
       <div align="center"><sub>----------------------------------------<br />Polished bakery showcase with a warm editorial feel<br />----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
-        <img src="https://cdn.simpleicons.org/solid/6d28d9" alt="SolidStart" title="SolidStart" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/solid/8b5cf6" alt="SolidStart" title="SolidStart" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/bun/8b5cf6" alt="Bun" title="Bun" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/tailwindcss/8b5cf6" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
       </p>
       <a href="https://github.com/bulljam/Le-Petit-Oven" title="Open Le Petit Oven repository">
         <img src="demo/le-petit-oven.gif" alt="Le Petit Oven demo preview" width="100%" />
@@ -180,9 +180,9 @@
       <p align="center"><sub>09 // BRAVIO MEDIA</sub></p>
       <div align="center"><sub>----------------------------------------<br />Modern single-page agency showcase<br />----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
-        <img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/typescript/6d28d9" alt="TypeScript" title="TypeScript" width="16" hspace="4" />
-        <img src="https://cdn.simpleicons.org/css/6d28d9" alt="CSS" title="CSS" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/react/8b5cf6" alt="React" title="React" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/typescript/8b5cf6" alt="TypeScript" title="TypeScript" width="16" hspace="4" />
+        <img src="https://cdn.simpleicons.org/css/8b5cf6" alt="CSS" title="CSS" width="16" hspace="4" />
       </p>
       <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
         <img src="demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
