@@ -103,7 +103,7 @@
       <p align="center"><sub>01 // PET PANTRY</sub></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=420&height=22&lines=Playful+storefront+for+dog+food+and+accessories" alt="Playful storefront for dog food and accessories" />
+        <img src="demo/descriptions/pet-pantry.svg" alt="Playful storefront for dog food and accessories" />
       </p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
@@ -120,7 +120,7 @@
       <p align="center"><sub>02 // FILMORAX</sub></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=400&height=22&lines=Movie+streaming+app+with+a+polished+browsing+flow" alt="Movie streaming app with a polished browsing flow" />
+        <img src="demo/descriptions/filmorax.svg" alt="Movie streaming app with a polished browsing flow" />
       </p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
@@ -139,7 +139,7 @@
       <p align="center"><sub>03 // MAISON EMBER</sub></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=430&height=22&lines=Multi-page+restaurant+showcase+with+a+refined+brand+feel" alt="Multi-page restaurant showcase with a refined brand feel" />
+        <img src="demo/descriptions/maison-ember.svg" alt="Multi-page restaurant showcase with a refined brand feel" />
       </p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
@@ -155,7 +155,7 @@
       <p align="center"><sub>04 // NOMADIAN</sub></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=360&height=22&lines=Cinematic+one-page+luxury+travel+experience" alt="Cinematic one-page luxury travel experience" />
+        <img src="demo/descriptions/nomadian.svg" alt="Cinematic one-page luxury travel experience" />
       </p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
@@ -174,7 +174,7 @@
       <p align="center"><sub>05 // EMERALD LEAF</sub></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=420&height=22&lines=Premium+indoor-plant+showcase+with+care-rich+discovery" alt="Premium indoor-plant showcase with care-rich discovery" />
+        <img src="demo/descriptions/emerald-leaf.svg" alt="Premium indoor-plant showcase with care-rich discovery" />
       </p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
@@ -191,7 +191,7 @@
       <p align="center"><sub>06 // URBAN HAVEN</sub></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=430&height=22&lines=Premium+real-estate+showcase+with+polished+inquiry+flow" alt="Premium real-estate showcase with polished inquiry flow" />
+        <img src="demo/descriptions/urban-haven.svg" alt="Premium real-estate showcase with polished inquiry flow" />
       </p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
@@ -213,7 +213,7 @@
       <p align="center"><sub>07 // FLEX ZONE</sub></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=390&height=22&lines=Modern+gym+showcase+with+bold,+motion-led+presentation" alt="Modern gym showcase with bold, motion-led presentation" />
+        <img src="demo/descriptions/flex-zone.svg" alt="Modern gym showcase with bold, motion-led presentation" />
       </p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
@@ -230,7 +230,7 @@
       <p align="center"><sub>08 // LE PETIT OVEN</sub></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=390&height=22&lines=Polished+bakery+showcase+with+a+warm+editorial+feel" alt="Polished bakery showcase with a warm editorial feel" />
+        <img src="demo/descriptions/le-petit-oven.svg" alt="Polished bakery showcase with a warm editorial feel" />
       </p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
@@ -248,7 +248,7 @@
       <p align="center"><sub>09 // BRAVIO MEDIA</sub></p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=16&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=290&height=22&lines=Modern+single-page+agency+showcase" alt="Modern single-page agency showcase" />
+        <img src="demo/descriptions/bravio-media.svg" alt="Modern single-page agency showcase" />
       </p>
       <div align="center"><sub>----------------------------------------</sub></div>
       <p align="center" style="margin: 0 0 10px;">
