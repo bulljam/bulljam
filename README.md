@@ -100,13 +100,11 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong><span style="font-size: 16px;">01 // PET PANTRY</span></strong></p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // PET PANTRY</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
         <img src="demo/descriptions/pet-pantry.svg" alt="Playful storefront for dog food and accessories" />
       </p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center" style="margin: 0 0 10px;">
+      <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/reactrouter/ffffff" alt="React Router" title="React Router" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/bun/ffffff" alt="Bun" title="Bun" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
@@ -117,13 +115,11 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong><span style="font-size: 16px;">02 // FILMORAX</span></strong></p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">02 // FILMORAX</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
         <img src="demo/descriptions/filmorax.svg" alt="Movie streaming app with a polished browsing flow" />
       </p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center" style="margin: 0 0 10px;">
+      <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
@@ -136,13 +132,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong><span style="font-size: 16px;">03 // MAISON EMBER</span></strong></p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">03 // MAISON EMBER</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
         <img src="demo/descriptions/maison-ember.svg" alt="Multi-page restaurant showcase with a refined brand feel" />
       </p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center" style="margin: 0 0 10px;">
+      <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/astro/ffffff" alt="Astro" title="Astro" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/mailtrap/ffffff" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" />
@@ -152,13 +146,11 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong><span style="font-size: 16px;">04 // NOMADIAN</span></strong></p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">04 // NOMADIAN</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
         <img src="demo/descriptions/nomadian.svg" alt="Cinematic one-page luxury travel experience" />
       </p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center" style="margin: 0 0 10px;">
+      <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/svelte/ffffff" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/lucide/ffffff" alt="Lucide Svelte" title="Lucide Svelte" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
@@ -171,13 +163,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong><span style="font-size: 16px;">05 // EMERALD LEAF</span></strong></p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">05 // EMERALD LEAF</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
         <img src="demo/descriptions/emerald-leaf.svg" alt="Premium indoor-plant showcase with care-rich discovery" />
       </p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center" style="margin: 0 0 10px;">
+      <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
@@ -188,13 +178,11 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong><span style="font-size: 16px;">06 // URBAN HAVEN</span></strong></p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">06 // URBAN HAVEN</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
         <img src="demo/descriptions/urban-haven.svg" alt="Premium real-estate showcase with polished inquiry flow" />
       </p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center" style="margin: 0 0 10px;">
+      <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/nuxt/ffffff" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/daisyui/ffffff" alt="daisyUI" title="daisyUI" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/greensock/ffffff" alt="GSAP" title="GSAP" width="16" hspace="4" />
@@ -210,13 +198,11 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong><span style="font-size: 16px;">07 // FLEX ZONE</span></strong></p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">07 // FLEX ZONE</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
         <img src="demo/descriptions/flex-zone.svg" alt="Modern gym showcase with bold, motion-led presentation" />
       </p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center" style="margin: 0 0 10px;">
+      <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" alt="Next.js" title="Next.js" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/shadcnui/ffffff" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" />
@@ -227,13 +213,11 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center"><strong><span style="font-size: 16px;">08 // LE PETIT OVEN</span></strong></p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">08 // LE PETIT OVEN</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
         <img src="demo/descriptions/le-petit-oven.svg" alt="Polished bakery showcase with a warm editorial feel" />
       </p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center" style="margin: 0 0 10px;">
+      <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/solid/ffffff" alt="SolidStart" title="SolidStart" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/bun/ffffff" alt="Bun" title="Bun" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/tailwindcss/ffffff" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" />
@@ -245,13 +229,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center"><strong><span style="font-size: 16px;">09 // BRAVIO MEDIA</span></strong></p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">09 // BRAVIO MEDIA</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
         <img src="demo/descriptions/bravio-media.svg" alt="Modern single-page agency showcase" />
       </p>
-      <div align="center"><sub>----------------------------------------</sub></div>
-      <p align="center" style="margin: 0 0 10px;">
+      <p align="center" style="margin: 0 0 8px;">
         <img src="https://cdn.simpleicons.org/react/ffffff" alt="React" title="React" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/typescript/ffffff" alt="TypeScript" title="TypeScript" width="16" hspace="4" />
         <img src="https://cdn.simpleicons.org/css/ffffff" alt="CSS" title="CSS" width="16" hspace="4" />
