@@ -6,6 +6,36 @@
  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3B1Zmc2YXZnYTR6cWVybWgyaml3eHBiOW5yNTE2enFqY3p1MmoyZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ij1WvlilscRFoIRn7u/giphy.gif" width="340" />
 </p>
 
+<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+  //
+</p>
+<p align="center">
+  <strong>
+    <span style="display: inline-block; font-size: 15px;"><tt>W H O&nbsp;&nbsp;A M&nbsp;&nbsp;I</tt></span>
+  </strong>
+</p>
+<p align="center">I'm Aymane Bouljam.</p>
+
+<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+  //
+</p>
+<p align="center">
+  <strong>
+    <span style="display: inline-block; font-size: 15px;"><tt>W H A T&nbsp;&nbsp;I&nbsp;&nbsp;D O</tt></span>
+  </strong>
+</p>
+<p align="center">I work as a fullstack developer with specialization in backend development.</p>
+
+<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+  //
+</p>
+<p align="center">
+  <strong>
+    <span style="display: inline-block; font-size: 15px;"><tt>M O T T O</tt></span>
+  </strong>
+</p>
+<p align="center">"Clarity First. Speed Always."</p>
+
 <p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
   //
 </p>
