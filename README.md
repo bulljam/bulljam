@@ -232,7 +232,7 @@
   //
 </p>
 
-<div align="center">
+<div align="center" style="margin-bottom: 10px;">
   <strong>
     <span style="display: inline-block; font-size: 15px;"><tt>C O N T A C T</tt></span>
   </strong>
