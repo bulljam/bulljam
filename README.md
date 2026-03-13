@@ -232,13 +232,15 @@
   //
 </p>
 
-<div align="center" style="margin-bottom: 10px;">
+<div align="center">
   <strong>
     <span style="display: inline-block; font-size: 15px;"><tt>C O N T A C T</tt></span>
   </strong>
 </div>
 
-<div align="center" style="margin-top: 10px;">
+<br />
+
+<div align="center">
   <img src="https://badgen.net/badge/Email/contact/6d28d9" alt="Email" />
   &nbsp;&nbsp;
   <img src="https://badgen.net/badge/LinkedIn/profile/6d28d9" alt="LinkedIn" />
