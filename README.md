@@ -10,6 +10,12 @@
   //
 </p>
 
+<p align="center">
+  <strong>
+    <span style="display: inline-block; font-size: 15px;"><tt>T E C H&nbsp;&nbsp;S T A C K</tt></span>
+  </strong>
+</p>
+
 <p align="center" style="margin: 10px 0;">
   <img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="50"/>
 </p>
@@ -39,6 +45,10 @@
 </p>
 <p align="center" style="margin: 10px 0 18px;">
   <img src="https://cdn.simpleicons.org/ubuntu/6d28d9" alt="Ubuntu" title="Ubuntu" width="50"/>
+</p>
+
+<p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+  //
 </p>
 
 <p align="center">
@@ -187,6 +197,12 @@
 </p>
 
 <p align="center">
+  <strong>
+    <span style="display: inline-block; font-size: 15px;"><tt>G I T H U B&nbsp;&nbsp;S T A T S</tt></span>
+  </strong>
+</p>
+
+<p align="center">
   <a href="https://github.com/bulljam">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=1f2937&ring=8b5cf6&fire=8b5cf6&currStreakLabel=6d28d9&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" />
@@ -212,17 +228,27 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1500&color=8B5CF6&center=true&vCenter=true&width=760&height=32&lines=If+you+are+interested+in+my+work%2C+contact+me;Let%27s+build+something+cool%21" alt="Let's cook something typing" />
+<p align="center" style="margin: 16px 0 18px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
+  //
 </p>
 
 <div align="center">
+  <strong>
+    <span style="display: inline-block; font-size: 15px;"><tt>C O N T A C T</tt></span>
+  </strong>
+</div>
+
+<div align="center" style="margin-top: 10px;">
   <img src="https://badgen.net/badge/Email/contact/6d28d9" alt="Email" />
   &nbsp;&nbsp;
   <img src="https://badgen.net/badge/LinkedIn/profile/6d28d9" alt="LinkedIn" />
   &nbsp;&nbsp;
   <img src="https://badgen.net/badge/Portfolio/live/6d28d9" alt="Portfolio" />
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1500&color=8B5CF6&center=true&vCenter=true&width=760&height=32&lines=If+you+are+interested+in+my+work%2C+contact+me;Let%27s+build+something+cool%21" alt="Let's cook something typing" />
+</p>
 
 [![Aymane Bouljam footer][footer-banner]][github]
 
