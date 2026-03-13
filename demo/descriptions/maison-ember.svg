@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="560" height="24" viewBox="0 0 560 24" role="img" aria-label="Multi-page restaurant showcase with a refined brand feel">
-  <text x="50%" y="50%" fill="#8B5CF6" font-family="Verdana, DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" dominant-baseline="middle">Multi-page restaurant showcase with a refined brand feel</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="30" viewBox="0 0 560 30" role="img" aria-label="Multi-page restaurant showcase with a refined brand feel">
+  <line x1="32" y1="4" x2="528" y2="4" stroke="#8B5CF6" stroke-width="1.5"/>
+  <text x="50%" y="50%" fill="#FFFFFF" font-family="Verdana, DejaVu Sans, sans-serif" font-size="16" text-anchor="middle" dominant-baseline="middle">Multi-page restaurant showcase with a refined brand feel</text>
+  <line x1="32" y1="26" x2="528" y2="26" stroke="#8B5CF6" stroke-width="1.5"/>
 </svg>
