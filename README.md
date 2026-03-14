@@ -131,7 +131,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Pet-Pantry" title="Open Pet Pantry repository">
-        <img src="./demo/pet-pantry.gif" alt="Pet Pantry demo preview" width="100%" />
+        <img src="demo/gifs/pet-pantry.gif" alt="Pet Pantry demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -150,7 +150,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/supabase/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/supabase/6d28d9" /><img src="https://cdn.simpleicons.org/supabase/6d28d9" alt="Supabase" title="Supabase" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/FilmoraX" title="Open FilmoraX repository">
-        <img src="demo/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
+        <img src="demo/gifs/filmoraX.gif" alt="FilmoraX demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -170,7 +170,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Maison-Ember" title="Open Maison Ember repository">
-        <img src="demo/maison-ember.gif" alt="Maison Ember demo preview" width="100%" />
+        <img src="demo/gifs/maison-ember.gif" alt="Maison Ember demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -189,7 +189,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/6d28d9" /><img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Nomadian" title="Open Nomadian repository">
-        <img src="demo/nomadian.gif" alt="Nomadian demo preview" width="100%" />
+        <img src="demo/gifs/nomadian.gif" alt="Nomadian demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -210,7 +210,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">
-        <img src="demo/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
+        <img src="demo/gifs/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -230,7 +230,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css/6d28d9" /><img src="https://cdn.simpleicons.org/css/6d28d9" alt="CSS" title="CSS" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Urban-Pillars.git" title="Open Urban Pillars repository">
-        <img src="demo/urban-pillars.gif" alt="Urban Pillars demo preview" width="100%" />
+        <img src="demo/gifs/urban-pillars.gif" alt="Urban Pillars demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -254,7 +254,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Flex-zone" title="Open Flex Zone repository">
-        <img src="demo/flex-zone.gif" alt="Flex Zone demo preview" width="100%" />
+        <img src="demo/gifs/flex-zone.gif" alt="Flex Zone demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -272,7 +272,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Le-Petit-Oven" title="Open Le Petit Oven repository">
-        <img src="demo/le-petit-oven.gif" alt="Le Petit Oven demo preview" width="100%" />
+        <img src="demo/gifs/le-petit-oven.gif" alt="Le Petit Oven demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -292,7 +292,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css/6d28d9" /><img src="https://cdn.simpleicons.org/css/6d28d9" alt="CSS" title="CSS" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Bravio-Media" title="Open Bravio Media repository">
-        <img src="demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
+        <img src="demo/gifs/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -311,7 +311,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
-        <img src="demo/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
+        <img src="demo/gifs/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
       </a>
     </td>
   </tr>
