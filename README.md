@@ -97,6 +97,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&pause=1700&color=8B5CF6&center=true&vCenter=true&width=920&height=32&lines=This+is+a+sample+of+what+I+can+build;Each+project+is+built+with+care%2C+speed%2C+and+detail" alt="Recent drops typing" />
 </p>
 
+<details>
+  <summary align="center"><strong>Frontend Showcase</strong></summary>
+  <br />
+
 <table align="center">
   <tr>
     <td width="50%" valign="top">
@@ -281,6 +285,8 @@
     <td width="50%" valign="top"></td>
   </tr>
 </table>
+
+</details>
 
 <p align="center" style="margin: 18px 0 16px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
   //
