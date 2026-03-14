@@ -214,22 +214,23 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">06 // URBAN HAVEN</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">06 // URBAN PILLARS</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/urban-haven.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/urban-haven-light.svg" />
-          <img src="demo/descriptions/urban-haven-light.svg" alt="Premium real-estate showcase with polished inquiry flow" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/urban-pillars.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/urban-pillars-light.svg" />
+          <img src="demo/descriptions/urban-pillars-light.svg" alt="Premium single-page, server-side rendered construction showcase" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nuxt/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nuxt/6d28d9" /><img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/daisyui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/daisyui/6d28d9" /><img src="https://cdn.simpleicons.org/daisyui/6d28d9" alt="daisyUI" title="daisyUI" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/6d28d9" /><img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/6d28d9" /><img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/6d28d9" /><img src="https://cdn.simpleicons.org/express/6d28d9" alt="Express" title="Express" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/ejs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/ejs/6d28d9" /><img src="https://cdn.simpleicons.org/ejs/6d28d9" alt="EJS" title="EJS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/htmx/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/htmx/6d28d9" /><img src="https://cdn.simpleicons.org/htmx/6d28d9" alt="htmx" title="htmx" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/css/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/css/6d28d9" /><img src="https://cdn.simpleicons.org/css/6d28d9" alt="CSS" title="CSS" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
-        <img src="demo/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
+      <a href="https://github.com/bulljam/Urban-Pillars.git" title="Open Urban Pillars repository">
+        <img src="demo/urban-pillars.gif" alt="Urban Pillars demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -294,7 +295,25 @@
         <img src="demo/bravio-media.gif" alt="Bravio Media demo preview" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">10 // URBAN HAVEN</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/urban-haven.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/urban-haven-light.svg" />
+          <img src="demo/descriptions/urban-haven-light.svg" alt="Premium real-estate showcase with polished inquiry flow" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nuxt/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nuxt/6d28d9" /><img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/daisyui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/daisyui/6d28d9" /><img src="https://cdn.simpleicons.org/daisyui/6d28d9" alt="daisyUI" title="daisyUI" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/6d28d9" /><img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
+        <img src="demo/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
