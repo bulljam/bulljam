@@ -310,10 +310,6 @@
   </strong>
 </p>
 
-<p align="center" style="margin: 4px 0 10px;">
-  <img src="https://komarev.com/ghpvc/?username=bulljam&label=Views&color=6d28d9&style=flat" alt="Profile views" />
-</p>
-
 <p align="center">
   <a href="https://github.com/bulljam">
     <picture>
