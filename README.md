@@ -68,28 +68,32 @@
   <img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="50"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="50" hspace="8"/>
-</p>
-<p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/nestjs/6d28d9" alt="NestJS" title="NestJS" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/mongodb/6d28d9" alt="MongoDB" title="MongoDB" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="50" hspace="8"/>
-</p>
-<p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/inertia/6d28d9" alt="Inertia" title="Inertia" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/typescript/6d28d9" alt="TypeScript" title="TypeScript" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/docker/6d28d9" alt="Docker" title="Docker" width="50" hspace="8"/>
-  <img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/vue.js/6d28d9" alt="Vue.js" title="Vue.js" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/pnpm/6d28d9" alt="Pnpm" title="pnpm" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="50" hspace="8"/>
+</p>
+<p align="center" style="margin: 10px 0;">
+  <img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/nestjs/6d28d9" alt="NestJS" title="NestJS" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/fastify/6d28d9" alt="Fastify" title="Fastify" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/express/6d28d9" alt="Express.js" title="Express.js" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/nodedotjs/6d28d9" alt="Node.js" title="Node.js" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/mongodb/6d28d9" alt="MongoDB" title="MongoDB" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/redis/6d28d9" alt="Redis" title="Redis" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/docker/6d28d9" alt="Docker" title="Docker" width="50" hspace="8"/>
+</p>
+<p align="center" style="margin: 10px 0;">
+  <img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP" title="PHP" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/pnpm/6d28d9" alt="Pnpm" title="pnpm" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0 18px;">
   <img src="https://cdn.simpleicons.org/ubuntu/6d28d9" alt="Ubuntu" title="Ubuntu" width="50"/>
@@ -314,6 +318,37 @@
         <img src="demo/gifs/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
       </a>
     </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+  <summary align="center"><strong>API Showcase</strong></summary>
+  <br />
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // STOREX API</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/storex-api.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/storex-api-light.svg" />
+          <img src="demo/descriptions/storex-api-light.svg" alt="Laravel file storage backend with secure sharing flows" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP 8.4" title="PHP 8.4" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel 12" title="Laravel 12" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/Storex-API" title="Open Storex API repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/Storex-API" alt="Storex API repository preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
