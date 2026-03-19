@@ -68,7 +68,7 @@
   <img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="50"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/typescript/6d28d9" alt="TypeScript" title="TypeScript" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/vue.js/6d28d9" alt="Vue.js" title="Vue.js" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
@@ -92,7 +92,7 @@
   <img src="https://cdn.simpleicons.org/docker/6d28d9" alt="Docker" title="Docker" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0;">
-  <img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP" title="PHP" width="50" hspace="8"/>
+  <img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma" title="Prisma" width="50" hspace="8"/>
   <img src="https://cdn.simpleicons.org/pnpm/6d28d9" alt="Pnpm" title="pnpm" width="50" hspace="8"/>
 </p>
 <p align="center" style="margin: 10px 0 18px;">
@@ -348,7 +348,25 @@
         <img src="https://opengraph.githubassets.com/1/bulljam/Storex-API" alt="Storex API repository preview" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">02 // ROOMRESERVE API</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/roomreserve-api.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/roomreserve-api-light.svg" />
+          <img src="demo/descriptions/roomreserve-api-light.svg" alt="Hotel booking API with streamlined reservation flows" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastify/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastify/6d28d9" /><img src="https://cdn.simpleicons.org/fastify/6d28d9" alt="Fastify" title="Fastify" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/6d28d9" /><img src="https://cdn.simpleicons.org/typescript/6d28d9" alt="TypeScript" title="TypeScript" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma ORM" title="Prisma ORM" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/RoomReserve-API" title="Open RoomReserve API repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/RoomReserve-API" alt="RoomReserve API repository preview" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
