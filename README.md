@@ -388,7 +388,25 @@
         <img src="https://opengraph.githubassets.com/1/bulljam/Blink-API" alt="Blink API repository preview" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">04 // AUTHCORE API</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/authcore-api.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/authcore-api-light.svg" />
+          <img src="demo/descriptions/authcore-api-light.svg" alt="Secure NestJS authentication API with JWT and RBAC" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/6d28d9" /><img src="https://cdn.simpleicons.org/typescript/6d28d9" alt="TypeScript" title="TypeScript" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nestjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nestjs/6d28d9" /><img src="https://cdn.simpleicons.org/nestjs/6d28d9" alt="NestJS" title="NestJS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma ORM" title="Prisma ORM" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/AuthCore-API" title="Open AuthCore API repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/AuthCore-API" alt="AuthCore API repository preview" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
