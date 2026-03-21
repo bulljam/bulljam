@@ -428,6 +428,46 @@
         <img src="https://opengraph.githubassets.com/1/bulljam/InvoiceKit-API" alt="InvoiceKit API repository preview" width="100%" />
       </a>
     </td>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">06 // EXPENSEKIT API</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/expensekit-api.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/expensekit-api-light.svg" />
+          <img src="demo/descriptions/expensekit-api-light.svg" alt="Expense tracking API with reports and dashboard insights" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP" title="PHP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/ExpenseKit-API" title="Open ExpenseKit API repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/ExpenseKit-API" alt="ExpenseKit API repository preview" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">07 // EDUCORE API</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/educore-api.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/educore-api-light.svg" />
+          <img src="demo/descriptions/educore-api-light.svg" alt="School management backend with Laravel and SQLite" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP" title="PHP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/EduCore-API" title="Open EduCore API repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/EduCore-API" alt="EduCore API repository preview" width="100%" />
+      </a>
+    </td>
     <td width="50%" valign="top"></td>
   </tr>
 </table>
