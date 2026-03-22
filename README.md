@@ -543,6 +543,16 @@
 <p align="center">
   <a href="https://github.com/bulljam">
     <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=e2e8f0" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=ffffff00&title_color=6d28d9&text_color=475569" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=ffffff00&title_color=6d28d9&text_color=475569" alt="Most used languages" width="70%" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/bulljam">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bulljam&bg_color=00000000&color=8b5cf6&line=6d28d9&point=ffffff&area=true&hide_border=true" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bulljam&bg_color=ffffff00&color=4c1d95&line=6d28d9&point=1f2937&area=true&hide_border=true" />
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=bulljam&bg_color=ffffff00&color=4c1d95&line=6d28d9&point=1f2937&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
