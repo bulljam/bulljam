@@ -35,18 +35,6 @@
 </p>
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>O N&nbsp;&nbsp;A I</tt></span>
-  </strong>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&duration=1&pause=9999999&color=8B5CF6&center=true&vCenter=true&repeat=false&width=700&height=24&lines=%22AI+won%27t+replace+devs%2C+just+like+clippers+didn%27t+replace+barbers.%22" alt="&quot;AI won't replace devs, just like clippers didn't replace barbers.&quot;" />
-</p>
-
-<p align="center" style="margin: 12px 0 10px; color: #6d28d9; font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700;">
-  //
-</p>
-<p align="center">
-  <strong>
     <span style="display: inline-block; font-size: 15px;"><tt>M O T T O</tt></span>
   </strong>
 </p>
