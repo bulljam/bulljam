@@ -488,6 +488,28 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">09 // LEXICORE API</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/lexicore-api.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/lexicore-api-light.svg" />
+          <img src="demo/descriptions/lexicore-api-light.svg" alt="Language learning API with lessons, progress, and practice" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP 8.4" title="PHP 8.4" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel 11" title="Laravel 11" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/LexiCore-API.git" title="Open LexiCore API repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/LexiCore-API" alt="LexiCore API repository preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 </details>
