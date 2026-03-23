@@ -616,7 +616,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=e2e8f0" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=ffffff00&title_color=6d28d9&text_color=475569" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=ffffff00&title_color=6d28d9&text_color=475569" alt="Most used languages" width="70%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=ffffff00&title_color=6d28d9&text_color=475569" alt="Most used languages" width="58%" />
     </picture>
   </a>
 </p>
