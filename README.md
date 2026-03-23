@@ -545,6 +545,25 @@
         <img src="https://opengraph.githubassets.com/1/bulljam/Vault-CLI" alt="Vault CLI repository preview" width="100%" />
       </a>
     </td>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">02 // DEVKIT CLI</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/devkit-cli.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/devkit-cli-light.svg" />
+          <img src="demo/descriptions/devkit-cli-light.svg" alt="Python CLI for scaffolding, local services, cleanup, and env workflows" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Pathlib / subprocess" title="Pathlib / subprocess" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/DevKit-CLI.git" title="Open DevKit CLI repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/DevKit-CLI" alt="DevKit CLI repository preview" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
