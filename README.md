@@ -102,7 +102,7 @@
 </p>
 
 <details>
-  <summary align="center"><strong>Frontend Showcase</strong></summary>
+  <summary align="center"><strong>UI Showcase</strong></summary>
   <br />
 
 <table align="center">
@@ -521,7 +521,7 @@
 </details>
 
 <details>
-  <summary align="center"><strong>CLI Tools Showcase</strong></summary>
+  <summary align="center"><strong>CLI Showcase</strong></summary>
   <br />
 
 <table align="center">
