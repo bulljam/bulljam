@@ -685,6 +685,28 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">09 // REPOLENS CLI</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/repolens-cli.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/repolens-cli-light.svg" />
+          <img src="demo/descriptions/repolens-cli-light.svg" alt="Python CLI for repository analysis, dead-symbol checks, and complexity hints" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON output" title="JSON output" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/RepoLens-CLI.git" title="Open RepoLens CLI repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/RepoLens-CLI" alt="RepoLens CLI repository preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 </details>
