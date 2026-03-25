@@ -665,7 +665,25 @@
         <img src="https://opengraph.githubassets.com/1/bulljam/SwiftTest-CLI" alt="SwiftTest CLI repository preview" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">08 // JKIT CLI</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/jkit-cli.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/jkit-cli-light.svg" />
+          <img src="demo/descriptions/jkit-cli-light.svg" alt="CLI for filtering, transforming, and converting JSON and YAML with safe defaults" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON + YAML" title="JSON + YAML" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pypi/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pypi/6d28d9" /><img src="https://cdn.simpleicons.org/pypi/6d28d9" alt="Setuptools / Packaging" title="Setuptools / Packaging" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/JKit-CLI.git" title="Open JKit CLI repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/JKit-CLI" alt="JKit CLI repository preview" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
