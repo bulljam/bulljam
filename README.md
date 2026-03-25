@@ -565,22 +565,22 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">03 // DEPSCOPE CLI</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">03 // GITRADAR CLI</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/depscope-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/depscope-cli-light.svg" />
-          <img src="demo/descriptions/depscope-cli-light.svg" alt="Python CLI for dependency health and environment diagnostics" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/gitradar-cli.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/gitradar-cli-light.svg" />
+          <img src="demo/descriptions/gitradar-cli-light.svg" alt="Python CLI for Git trends, contributor activity, and risky commit signals" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON output" title="JSON output" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/git/6d28d9" /><img src="https://cdn.simpleicons.org/git/6d28d9" alt="GitPython" title="GitPython" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/DepScope-CLI.git" title="Open DepScope CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/DepScope-CLI" alt="DepScope CLI repository preview" width="100%" />
+      <a href="https://github.com/bulljam/GitRadar-CLI.git" title="Open GitRadar CLI repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/GitRadar-CLI" alt="GitRadar CLI repository preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -701,22 +701,22 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">10 // GITRADAR CLI</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">10 // DEPSCOPE CLI</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/gitradar-cli.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/gitradar-cli-light.svg" />
-          <img src="demo/descriptions/gitradar-cli-light.svg" alt="Python CLI for Git trends, contributor activity, and risky commit signals" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/depscope-cli.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/depscope-cli-light.svg" />
+          <img src="demo/descriptions/depscope-cli-light.svg" alt="Python CLI for dependency health and environment diagnostics" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/git/6d28d9" /><img src="https://cdn.simpleicons.org/git/6d28d9" alt="GitPython" title="GitPython" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON output" title="JSON output" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/GitRadar-CLI.git" title="Open GitRadar CLI repository">
-        <img src="https://opengraph.githubassets.com/1/bulljam/GitRadar-CLI" alt="GitRadar CLI repository preview" width="100%" />
+      <a href="https://github.com/bulljam/DepScope-CLI.git" title="Open DepScope CLI repository">
+        <img src="https://opengraph.githubassets.com/1/bulljam/DepScope-CLI" alt="DepScope CLI repository preview" width="100%" />
       </a>
     </td>
   </tr>
