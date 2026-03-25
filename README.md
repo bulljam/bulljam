@@ -93,7 +93,7 @@
 
 <p align="center">
   <strong>
-    <span style="display: inline-block; font-size: 15px;"><tt>R E C E N T&nbsp;&nbsp;D R O P S</tt></span>
+    <span style="display: inline-block; font-size: 15px;"><tt>F E A T U R E D&nbsp;&nbsp;W O R K</tt></span>
   </strong>
 </p>
 
@@ -102,7 +102,11 @@
 </p>
 
 <details>
-  <summary align="center"><strong>UI Showcase</strong></summary>
+  <summary align="center"><strong>Projects</strong></summary>
+  <br />
+
+<details>
+  <summary align="center"><strong>UI</strong></summary>
   <br />
 
 <table align="center">
@@ -312,7 +316,7 @@
 </details>
 
 <details>
-  <summary align="center"><strong>API Showcase</strong></summary>
+  <summary align="center"><strong>API</strong></summary>
   <br />
 
 <table align="center">
@@ -521,7 +525,7 @@
 </details>
 
 <details>
-  <summary align="center"><strong>CLI Showcase</strong></summary>
+  <summary align="center"><strong>CLI</strong></summary>
   <br />
 
 <table align="center">
@@ -721,6 +725,8 @@
     </td>
   </tr>
 </table>
+
+</details>
 
 </details>
 
