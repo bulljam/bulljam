@@ -538,7 +538,6 @@
       <p align="center" style="margin: 0 0 8px;">
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pypi/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pypi/6d28d9" /><img src="https://cdn.simpleicons.org/pypi/6d28d9" alt="Setuptools / Packaging" title="Setuptools / Packaging" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Vault-CLI.git" title="Open Vault CLI repository">
@@ -557,7 +556,6 @@
       <p align="center" style="margin: 0 0 8px;">
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pypi/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pypi/6d28d9" /><img src="https://cdn.simpleicons.org/pypi/6d28d9" alt="Setuptools / Packaging" title="Setuptools / Packaging" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/DevKit-CLI.git" title="Open DevKit CLI repository">
@@ -597,7 +595,6 @@
       <p align="center" style="margin: 0 0 8px;">
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pypi/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pypi/6d28d9" /><img src="https://cdn.simpleicons.org/pypi/6d28d9" alt="Setuptools / src layout" title="Setuptools / src layout" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Pyclean-CLI.git" title="Open Pyclean CLI repository">
@@ -618,7 +615,6 @@
       <p align="center" style="margin: 0 0 8px;">
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pypi/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pypi/6d28d9" /><img src="https://cdn.simpleicons.org/pypi/6d28d9" alt="Setuptools / Packaging" title="Setuptools / Packaging" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Callr-CLI.git" title="Open Callr CLI repository">
@@ -637,7 +633,6 @@
       <p align="center" style="margin: 0 0 8px;">
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pypi/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pypi/6d28d9" /><img src="https://cdn.simpleicons.org/pypi/6d28d9" alt="Setuptools / Packaging" title="Setuptools / Packaging" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/PulseLog-CLI.git" title="Open PulseLog CLI repository">
@@ -677,7 +672,6 @@
       <p align="center" style="margin: 0 0 8px;">
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON + YAML" title="JSON + YAML" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pypi/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pypi/6d28d9" /><img src="https://cdn.simpleicons.org/pypi/6d28d9" alt="Setuptools / Packaging" title="Setuptools / Packaging" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/JKit-CLI.git" title="Open JKit CLI repository">
