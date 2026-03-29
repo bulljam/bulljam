@@ -732,7 +732,7 @@
   <summary align="center"><strong>Full Stack</strong></summary>
   <br />
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // BUILDLY AI</span></strong></p>
