@@ -754,26 +754,7 @@
         <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // BUILDLY AI</span></strong></p>
-      <p align="center" style="margin: 0 0 4px;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/buildly-ai.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/buildly-ai-light.svg" />
-          <img src="demo/descriptions/buildly-ai-light.svg" alt="Website generator for refining a project through chat with live preview and code view" />
-        </picture>
-      </p>
-      <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js App Router" title="Next.js App Router" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma ORM" title="Prisma ORM" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lightning/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lightning/6d28d9" /><img src="https://cdn.simpleicons.org/lightning/6d28d9" alt="Groq" title="Groq" width="16" hspace="4" /></picture>
-      </p>
-      <a href="https://github.com/bulljam/Buildly-AI" title="Open Buildly AI repository">
-        <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
-      </a>
-    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
