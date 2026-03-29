@@ -102,11 +102,11 @@
 </p>
 
 <details>
-  <summary align="center"><strong>Projects</strong></summary>
+  <summary align="center"><strong>Projects Showcase</strong></summary>
   <br />
 
 <details>
-  <summary align="center"><strong>UI</strong></summary>
+  <summary align="center"><strong>Frontend</strong></summary>
   <br />
 
 <table align="center">
@@ -316,7 +316,7 @@
 </details>
 
 <details>
-  <summary align="center"><strong>API</strong></summary>
+  <summary align="center"><strong>REST API</strong></summary>
   <br />
 
 <table align="center">
@@ -525,7 +525,7 @@
 </details>
 
 <details>
-  <summary align="center"><strong>CLI</strong></summary>
+  <summary align="center"><strong>CLI Tools</strong></summary>
   <br />
 
 <table align="center">
@@ -746,16 +746,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=1f2937&ring=8b5cf6&fire=8b5cf6&currStreakLabel=6d28d9&sideNums=ffffff&currStreakNum=ffffff&dates=94a3b8&sideLabels=cbd5e1&card_width=980" />
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=6d28d9&fire=6d28d9&currStreakLabel=4c1d95&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=4c1d95&card_width=980" />
       <img src="https://github-readme-streak-stats.herokuapp.com?user=bulljam&hide_border=true&background=00000000&stroke=e5e7eb&ring=6d28d9&fire=6d28d9&currStreakLabel=4c1d95&sideNums=1f2937&currStreakNum=1f2937&dates=475569&sideLabels=4c1d95&card_width=980" alt="GitHub streak" width="100%" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bulljam">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=e2e8f0" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=ffffff00&title_color=6d28d9&text_color=475569" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bulljam&layout=compact&hide_border=true&bg_color=ffffff00&title_color=6d28d9&text_color=475569" alt="Most used languages" width="58%" />
     </picture>
   </a>
 </p>
