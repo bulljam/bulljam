@@ -734,7 +734,10 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td colspan="2" align="center" valign="top">
+      <table align="center" width="50%">
+        <tr>
+          <td valign="top">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // BUILDLY AI</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
@@ -753,8 +756,10 @@
       <a href="https://github.com/bulljam/Buildly-AI" title="Open Buildly AI repository">
         <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
       </a>
+          </td>
+        </tr>
+      </table>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
