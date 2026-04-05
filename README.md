@@ -777,6 +777,33 @@
   </tr>
 </table>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">03 // CLINIFIED HUB</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/clinified-hub.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/clinified-hub-light.svg" />
+          <img src="demo/descriptions/clinified-hub-light.svg" alt="Healthcare platform for appointments, onboarding, payments, and operational visibility" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel 12" title="Laravel 12" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React 19" title="React 19" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inertia/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/inertia/6d28d9" /><img src="https://cdn.simpleicons.org/inertia/6d28d9" alt="Inertia.js" title="Inertia.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql/6d28d9" /><img src="https://cdn.simpleicons.org/mysql/6d28d9" alt="MySQL" title="MySQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS v4" title="Tailwind CSS v4" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mui/6d28d9" /><img src="https://cdn.simpleicons.org/mui/6d28d9" alt="Material UI" title="Material UI" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/Clinified-Hub" title="Open Clinified Hub repository">
+        <img src="demo/gifs/clinified-hub.gif" alt="Clinified Hub demo preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
 </details>
 
 </details>
