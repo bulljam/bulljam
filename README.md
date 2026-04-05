@@ -331,8 +331,8 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP 8.4" title="PHP 8.4" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel 12" title="Laravel 12" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP" title="PHP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
@@ -374,7 +374,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/fastapi/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/fastapi/6d28d9" /><img src="https://cdn.simpleicons.org/fastapi/6d28d9" alt="FastAPI" title="FastAPI" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pydantic/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pydantic/6d28d9" /><img src="https://cdn.simpleicons.org/pydantic/6d28d9" alt="Pydantic v2" title="Pydantic v2" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pydantic/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pydantic/6d28d9" /><img src="https://cdn.simpleicons.org/pydantic/6d28d9" alt="Pydantic" title="Pydantic" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Blink-API" title="Open Blink API repository">
         <img src="https://opengraph.githubassets.com/1/bulljam/Blink-API" alt="Blink API repository preview" width="100%" />
@@ -470,8 +470,8 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP 8.4" title="PHP 8.4" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel 11" title="Laravel 11" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP" title="PHP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
@@ -491,8 +491,8 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP 8.4" title="PHP 8.4" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel 11" title="Laravel 11" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP" title="PHP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
@@ -510,8 +510,8 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP 8.4" title="PHP 8.4" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel 11" title="Laravel 11" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/php/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/php/6d28d9" /><img src="https://cdn.simpleicons.org/php/6d28d9" alt="PHP" title="PHP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/swagger/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/swagger/6d28d9" /><img src="https://cdn.simpleicons.org/swagger/6d28d9" alt="Scribe" title="Scribe" width="16" hspace="4" /></picture>
       </p>
@@ -540,7 +540,7 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
       </p>
@@ -558,7 +558,7 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
       </p>
@@ -578,7 +578,7 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
       </p>
@@ -596,7 +596,7 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
       </p>
@@ -634,7 +634,7 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/git/6d28d9" /><img src="https://cdn.simpleicons.org/git/6d28d9" alt="GitPython" title="GitPython" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
@@ -655,7 +655,7 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="pytest-json-report" title="pytest-json-report" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Rich CLI" title="Rich CLI" width="16" hspace="4" /></picture>
@@ -695,7 +695,7 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON output" title="JSON output" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer + Rich CLI" title="Typer + Rich CLI" width="16" hspace="4" /></picture>
@@ -714,7 +714,7 @@
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python 3.11+" title="Python 3.11+" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/6d28d9" /><img src="https://cdn.simpleicons.org/python/6d28d9" alt="Python" title="Python" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pytest/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pytest/6d28d9" /><img src="https://cdn.simpleicons.org/pytest/6d28d9" alt="Pytest" title="Pytest" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/json/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/json/6d28d9" /><img src="https://cdn.simpleicons.org/json/6d28d9" alt="JSON output" title="JSON output" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gnubash/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gnubash/6d28d9" /><img src="https://cdn.simpleicons.org/gnubash/6d28d9" alt="Typer CLI" title="Typer CLI" width="16" hspace="4" /></picture>
@@ -793,7 +793,6 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inertia/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/inertia/6d28d9" /><img src="https://cdn.simpleicons.org/inertia/6d28d9" alt="Inertia.js" title="Inertia.js" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql/6d28d9" /><img src="https://cdn.simpleicons.org/mysql/6d28d9" alt="MySQL" title="MySQL" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mui/6d28d9" /><img src="https://cdn.simpleicons.org/mui/6d28d9" alt="Material UI" title="Material UI" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Clinified-Hub" title="Open Clinified Hub repository">
