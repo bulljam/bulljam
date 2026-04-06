@@ -796,7 +796,7 @@
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mui/6d28d9" /><img src="https://cdn.simpleicons.org/mui/6d28d9" alt="Material UI" title="Material UI" width="16" hspace="4" /></picture>
       </p>
       <a href="https://github.com/bulljam/Clinified-Hub" title="Open Clinified Hub repository">
-        <img src="demo/gifs/clinified-hub.gif" alt="Clinified Hub demo preview" width="100%" />
+        <img src="demo/gifs/clinified-hub-v2.gif" alt="Clinified Hub demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
