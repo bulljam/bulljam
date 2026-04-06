@@ -735,23 +735,23 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // BUILDLY AI</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // INVENTRA</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/buildly-ai.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/buildly-ai-light.svg" />
-          <img src="demo/descriptions/buildly-ai-light.svg" alt="Website generator for refining a project through chat with live preview and code view" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/inventra.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/inventra-light.svg" />
+          <img src="demo/descriptions/inventra-light.svg" alt="Inventory app for products, suppliers, sales, purchases, and business performance" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js App Router" title="Next.js App Router" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma ORM" title="Prisma ORM" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lightning/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lightning/6d28d9" /><img src="https://cdn.simpleicons.org/lightning/6d28d9" alt="Groq" title="Groq" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/6d28d9" /><img src="https://cdn.simpleicons.org/express/6d28d9" alt="Express" title="Express" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mongodb/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mongodb/6d28d9" /><img src="https://cdn.simpleicons.org/mongodb/6d28d9" alt="MongoDB" title="MongoDB" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/Buildly-AI" title="Open Buildly AI repository">
-        <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
+      <a href="https://github.com/bulljam/Inventra" title="Open Inventra repository">
+        <img src="demo/gifs/inventra.gif" alt="Inventra demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -799,7 +799,26 @@
         <img src="demo/gifs/clinified-hub.gif" alt="Clinified Hub demo preview" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">04 // BUILDLY AI</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/buildly-ai.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/buildly-ai-light.svg" />
+          <img src="demo/descriptions/buildly-ai-light.svg" alt="Website generator for refining a project through chat with live preview and code view" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js App Router" title="Next.js App Router" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma ORM" title="Prisma ORM" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lightning/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lightning/6d28d9" /><img src="https://cdn.simpleicons.org/lightning/6d28d9" alt="Groq" title="Groq" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/Buildly-AI" title="Open Buildly AI repository">
+        <img src="demo/gifs/buildly-ai.gif" alt="Buildly AI demo preview" width="100%" />
+      </a>
+    </td>
   </tr>
 </table>
 
