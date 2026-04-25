@@ -822,6 +822,32 @@
   </tr>
 </table>
 
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">05 // VYNCE</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/vynce.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/vynce-light.svg" />
+          <img src="demo/descriptions/vynce-light.svg" alt="Modern social platform built with Laravel and Inertia, featuring posts, connections, messaging, and notifications" />
+        </picture>
+      </p>
+      <p align="center" style="margin: 0 0 8px;">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inertia/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/inertia/6d28d9" /><img src="https://cdn.simpleicons.org/inertia/6d28d9" alt="Inertia.js" title="Inertia.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+      </p>
+      <a href="https://github.com/bulljam/Vynce" title="Open Vynce repository">
+        <img src="demo/gifs/vynce.gif" alt="Vynce demo preview" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
+</table>
+
 </details>
 
 </details>
