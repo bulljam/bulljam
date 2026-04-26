@@ -824,7 +824,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top" colspan="2">
       <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">05 // DOCBOT AI</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
@@ -844,7 +844,6 @@
         <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
