@@ -755,23 +755,23 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">02 // DOCBOT AI</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">02 // VYNCE</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/docbot-ai.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/docbot-ai-light.svg" />
-          <img src="demo/descriptions/docbot-ai-light.svg" alt="Medical chatbot that only responds to health-related questions for focused interactions" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/vynce.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/vynce-light.svg" />
+          <img src="demo/descriptions/vynce-light.svg" alt="Modern social platform built with Laravel and Inertia, featuring posts, connections, messaging, and notifications" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/daisyui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/daisyui/6d28d9" /><img src="https://cdn.simpleicons.org/daisyui/6d28d9" alt="DaisyUI" title="DaisyUI" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma" title="Prisma" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lightning/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lightning/6d28d9" /><img src="https://cdn.simpleicons.org/lightning/6d28d9" alt="Groq API" title="Groq API" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inertia/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/inertia/6d28d9" /><img src="https://cdn.simpleicons.org/inertia/6d28d9" alt="Inertia.js" title="Inertia.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/DocBot-AI" title="Open DocBot AI repository">
-        <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
+      <a href="https://github.com/bulljam/Vynce" title="Open Vynce repository">
+        <img src="demo/gifs/vynce.gif" alt="Vynce demo preview" width="100%" />
       </a>
     </td>
   </tr>
@@ -825,23 +825,23 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">05 // VYNCE</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">05 // DOCBOT AI</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/vynce.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/vynce-light.svg" />
-          <img src="demo/descriptions/vynce-light.svg" alt="Modern social platform built with Laravel and Inertia, featuring posts, connections, messaging, and notifications" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/docbot-ai.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/docbot-ai-light.svg" />
+          <img src="demo/descriptions/docbot-ai-light.svg" alt="Medical chatbot that only responds to health-related questions for focused interactions" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/laravel/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/laravel/6d28d9" /><img src="https://cdn.simpleicons.org/laravel/6d28d9" alt="Laravel" title="Laravel" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/6d28d9" /><img src="https://cdn.simpleicons.org/react/6d28d9" alt="React" title="React" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/inertia/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/inertia/6d28d9" /><img src="https://cdn.simpleicons.org/inertia/6d28d9" alt="Inertia.js" title="Inertia.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/6d28d9" /><img src="https://cdn.simpleicons.org/postgresql/6d28d9" alt="PostgreSQL" title="PostgreSQL" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/prisma/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/prisma/6d28d9" /><img src="https://cdn.simpleicons.org/prisma/6d28d9" alt="Prisma" title="Prisma" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/sqlite/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/sqlite/6d28d9" /><img src="https://cdn.simpleicons.org/sqlite/6d28d9" alt="SQLite" title="SQLite" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lightning/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lightning/6d28d9" /><img src="https://cdn.simpleicons.org/lightning/6d28d9" alt="Groq API" title="Groq API" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/Vynce" title="Open Vynce repository">
-        <img src="demo/gifs/vynce.gif" alt="Vynce demo preview" width="100%" />
+      <a href="https://github.com/bulljam/DocBot-AI" title="Open DocBot AI repository">
+        <img src="demo/gifs/docbot-ai.gif" alt="DocBot AI demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top"></td>
