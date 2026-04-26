@@ -112,22 +112,22 @@
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // PET PANTRY</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">01 // EMERALD LEAF</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/pet-pantry.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/pet-pantry-light.svg" />
-          <img src="demo/descriptions/pet-pantry-light.svg" alt="Playful storefront for dog food and accessories" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/emerald-leaf.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/emerald-leaf-light.svg" />
+          <img src="demo/descriptions/emerald-leaf-light.svg" alt="Premium indoor-plant showcase with care-rich discovery" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/reactrouter/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/reactrouter/6d28d9" /><img src="https://cdn.simpleicons.org/reactrouter/6d28d9" alt="React Router" title="React Router" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/6d28d9" /><img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/Pet-Pantry" title="Open Pet Pantry repository">
-        <img src="demo/gifs/pet-pantry.gif" alt="Pet Pantry demo preview" width="100%" />
+      <a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">
+        <img src="demo/gifs/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -170,43 +170,43 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">04 // NOMADIAN</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">04 // URBAN HAVEN</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/nomadian.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/nomadian-light.svg" />
-          <img src="demo/descriptions/nomadian-light.svg" alt="Cinematic one-page luxury travel experience" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/urban-haven.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/urban-haven-light.svg" />
+          <img src="demo/descriptions/urban-haven-light.svg" alt="Premium real-estate showcase with polished inquiry flow" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/svelte/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/svelte/6d28d9" /><img src="https://cdn.simpleicons.org/svelte/6d28d9" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lucide/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lucide/6d28d9" /><img src="https://cdn.simpleicons.org/lucide/6d28d9" alt="Lucide Svelte" title="Lucide Svelte" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nuxt/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nuxt/6d28d9" /><img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/daisyui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/daisyui/6d28d9" /><img src="https://cdn.simpleicons.org/daisyui/6d28d9" alt="daisyUI" title="daisyUI" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/6d28d9" /><img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/Nomadian" title="Open Nomadian repository">
-        <img src="demo/gifs/nomadian.gif" alt="Nomadian demo preview" width="100%" />
+      <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
+        <img src="demo/gifs/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">05 // EMERALD LEAF</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">05 // PET PANTRY</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/emerald-leaf.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/emerald-leaf-light.svg" />
-          <img src="demo/descriptions/emerald-leaf-light.svg" alt="Premium indoor-plant showcase with care-rich discovery" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/pet-pantry.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/pet-pantry-light.svg" />
+          <img src="demo/descriptions/pet-pantry-light.svg" alt="Playful storefront for dog food and accessories" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/6d28d9" /><img src="https://cdn.simpleicons.org/nextdotjs/6d28d9" alt="Next.js" title="Next.js" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/reactrouter/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/reactrouter/6d28d9" /><img src="https://cdn.simpleicons.org/reactrouter/6d28d9" alt="React Router" title="React Router" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/bun/6d28d9" /><img src="https://cdn.simpleicons.org/bun/6d28d9" alt="Bun" title="Bun" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/shadcnui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/shadcnui/6d28d9" /><img src="https://cdn.simpleicons.org/shadcnui/6d28d9" alt="shadcn/ui" title="shadcn/ui" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/framer/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/framer/6d28d9" /><img src="https://cdn.simpleicons.org/framer/6d28d9" alt="Framer Motion" title="Framer Motion" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/Emerald-Leaf" title="Open Emerald Leaf repository">
-        <img src="demo/gifs/emerald-leaf.gif" alt="Emerald Leaf demo preview" width="100%" />
+      <a href="https://github.com/bulljam/Pet-Pantry" title="Open Pet Pantry repository">
+        <img src="demo/gifs/pet-pantry.gif" alt="Pet Pantry demo preview" width="100%" />
       </a>
     </td>
     <td width="50%" valign="top">
@@ -292,22 +292,22 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">10 // URBAN HAVEN</span></strong></p>
+      <p align="center" style="margin: 0 0 4px;"><strong><span style="font-size: 16px;">10 // NOMADIAN</span></strong></p>
       <p align="center" style="margin: 0 0 4px;">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/urban-haven.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/urban-haven-light.svg" />
-          <img src="demo/descriptions/urban-haven-light.svg" alt="Premium real-estate showcase with polished inquiry flow" />
+          <source media="(prefers-color-scheme: dark)" srcset="demo/descriptions/nomadian.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="demo/descriptions/nomadian-light.svg" />
+          <img src="demo/descriptions/nomadian-light.svg" alt="Cinematic one-page luxury travel experience" />
         </picture>
       </p>
       <p align="center" style="margin: 0 0 8px;">
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nuxt/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nuxt/6d28d9" /><img src="https://cdn.simpleicons.org/nuxt/6d28d9" alt="Nuxt.js" title="Nuxt.js" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/daisyui/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/daisyui/6d28d9" /><img src="https://cdn.simpleicons.org/daisyui/6d28d9" alt="daisyUI" title="daisyUI" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/svelte/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/svelte/6d28d9" /><img src="https://cdn.simpleicons.org/svelte/6d28d9" alt="SvelteKit" title="SvelteKit" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/lucide/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/lucide/6d28d9" /><img src="https://cdn.simpleicons.org/lucide/6d28d9" alt="Lucide Svelte" title="Lucide Svelte" width="16" hspace="4" /></picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tailwindcss/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tailwindcss/6d28d9" /><img src="https://cdn.simpleicons.org/tailwindcss/6d28d9" alt="Tailwind CSS" title="Tailwind CSS" width="16" hspace="4" /></picture>
         <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/greensock/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/greensock/6d28d9" /><img src="https://cdn.simpleicons.org/greensock/6d28d9" alt="GSAP" title="GSAP" width="16" hspace="4" /></picture>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mailtrap/ffffff" /><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mailtrap/6d28d9" /><img src="https://cdn.simpleicons.org/mailtrap/6d28d9" alt="Mailtrap" title="Mailtrap" width="16" hspace="4" /></picture>
       </p>
-      <a href="https://github.com/bulljam/Urban-Haven" title="Open Urban Haven repository">
-        <img src="demo/gifs/urban-haven.gif" alt="Urban Haven demo preview" width="100%" />
+      <a href="https://github.com/bulljam/Nomadian" title="Open Nomadian repository">
+        <img src="demo/gifs/nomadian.gif" alt="Nomadian demo preview" width="100%" />
       </a>
     </td>
   </tr>
