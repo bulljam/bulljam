@@ -158,14 +158,13 @@
 
 <div align="center">
   <strong>
-    <code>C O N T A C T</code>
+    <code>F I N D&nbsp;&nbsp;M E</code>
   </strong>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://aymanebouljam.com/?section=contact"><img src="https://img.shields.io/badge/Contact-Let%E2%80%99s%20Talk-6E6EAA?style=flat" alt="Contact · Let’s Talk" /></a>
   <a href="https://www.linkedin.com/in/aymanebouljam"><img src="https://img.shields.io/badge/LinkedIn-Profile-6E6EAA?style=flat" alt="LinkedIn" /></a>
   <a href="https://aymanebouljam.com"><img src="https://img.shields.io/badge/Portfolio-Live-6E6EAA?style=flat" alt="Portfolio" /></a>
 </div>
